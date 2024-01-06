@@ -1,0 +1,50 @@
+name: Flat
+
+on:
+  push:
+    paths:
+      - .github/workflows/flat.yml # Only run a new workflow every time this file (flat.yaml) file changes
+  workflow_dispatch: # Required even though this is currently empty
+  schedule:
+    - cron: '25 1 * * *' # Run each day at 1:25am
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps: # This workflow has 3 steps
+      # The first step is to check out the repository so it can read the files inside of it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v3
+      # This step installs Deno, which is a new Javascript runtime that improves on Node. We'll use it for postprocessing later
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      # The third step is a Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
+      - name: Fetch data 1
+        uses: githubocto/flat@mr/node16
+        with:
+          http_url: https://iptv-org.github.io/iptv/index.country.m3u # The URL to fetch each day
+          downloaded_filename: docs/channels-all.m3u # The http_url gets saved and renamed in our repository
+          # mask: true # optional param to mask the source http_url from the commit. Look at README for more options
+      - name: Fetch data 2
+        uses: githubocto/flat@mr/node16
+        with:
+          http_url: https://github.com/iptv-org/epg/raw/master/sites/elcinema.com/elcinema.com_en.channels.xml
+          downloaded_filename: temp/elcinema.com.channels.xml
+      - name: Fetch data 3
+        uses: githubocto/flat@mr/node16
+        with:
+          http_url: https://github.com/iptv-org/epg/raw/master/sites/mytelly.co.uk/mytelly.co.uk.channels.xml
+          downloaded_filename: temp/mytelly.co.uk.channels.xml
+      - name: Fetch data 4
+        uses: githubocto/flat@mr/node16
+        with:
+          http_url: https://github.com/iptv-org/epg/raw/master/sites/sat.tv/sat.tv_en.channels.xml
+          downloaded_filename: temp/sat.tv.channels.xml
+      - name: Fetch data 5
+        uses: githubocto/flat@mr/node16
+        with:
+          http_url: https://github.com/iptv-org/epg/raw/master/sites/sky.com/sky.com.channels.xml
+          downloaded_filename: temp/sky.com.channels.xml
+          postprocess: scripts/flat-data/postprocess.js
