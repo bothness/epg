@@ -43,4 +43,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-          message: 'guide.xml updated with github actions - ${date}'
+          message: guide.xml updated with github actions - ${{ steps.date.outputs.date }}
