@@ -67,10 +67,12 @@
   <channel site="sat.tv" lang="en" xmltv_id="AlmagharibiaTV.uk" site_id="1#33#Almagharibia TV">Almagharibia TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlQamarTV.ae" site_id="1#33#Al Qamar TV">Al Qamar TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlQudsTodayTV.ps" site_id="1#33#Al Quds Today TV">Al Quds Today TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AngelTVArabia.in" site_id="1#33#Angel TV Arabia">Angel TV Arabia</channel>
   <channel site="sat.tv" lang="en" xmltv_id="BBCArabic.uk" site_id="1#33#BBC Arabic">BBC Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CGTNArabic.cn" site_id="1#33#CGTN Arabic">CGTN Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="FalastiniTV.ps" site_id="1#33#Falastini TV">Falastini TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="France24Arabic.fr" site_id="1#33#France 24 Arabic">France 24 Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCBollywood.ae" site_id="1#33#MBC Bollywood">MBC Bollywood</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
@@ -78,6 +80,7 @@
   <channel site="sat.tv" lang="en" xmltv_id="NabaaTV.lb" site_id="1#33#Nabaa TV">Nabaa TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourAlKoddass.lb" site_id="1#33#Nour Koddass">Nour Koddass</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourMariam.lb" site_id="1#33#Nour Mariam TV">Nour Mariam TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
   <channel site="sky.com" lang="en" xmltv_id="ATNBanglaUK.uk" site_id="6753">ATN</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="IqraBangla.uk" site_id="3914">IQRA Bangla</channel>
