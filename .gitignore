@@ -1,4 +1,6 @@
 /node_modules/
+/temp/*
+/docs/*
 /channels.xml
 /guide.xml
 /guide.xml.gz
