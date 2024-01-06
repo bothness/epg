@@ -26,7 +26,7 @@ for (const source of sources) {
   const filename = `temp/${source}.channels.xml`;
   const txt = await readTXT(filename);
   const json = parse(txt);
-  if (!channels) {
+  if (!channels_xml) {
     channels_xml = json;
   } else {
     channels_xml.channels.channel = [...channels_xml.channels.channel, ...json.channels.channel];
