@@ -33,6 +33,9 @@ jobs:
 
       - name: Make guide.xml
         run: npm run grab -- --channels=docs/channels.xml --output=docs/guide.xml
+      
+      - name: Remove temp files
+        run: rm -r temp/data
 
       - name: Commit changes
         uses: Andro999b/push@v1.3
