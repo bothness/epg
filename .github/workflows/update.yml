@@ -38,6 +38,6 @@ jobs:
         uses: Andro999b/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
           message: 'guide.xml updated with github actions - ${date}'
