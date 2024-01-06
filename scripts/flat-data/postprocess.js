@@ -1,7 +1,7 @@
 import { readTXT, writeTXT, removeFile } from 'https://deno.land/x/flat@0.0.15/mod.ts';
 import { parse, stringify } from "https://deno.land/x/xml/mod.ts";
 
-const countries = ["Lebanon", "United Kingdom"];
+const countries = ["Lebanon", "Palestine", "United Kingdom"];
 const sources = ["elcinema.com", "mytelly.co.uk", "sat.tv", "sky.com"];
 
 const channels_all_path = "docs/channels-all.m3u";
@@ -17,8 +17,8 @@ const channels_path = `docs/channels.m3u`;
 await writeTXT(channels_path, channels);
 console.log("Wrote filtered m3u file");
 
-const channel_ids = channels.match(/(?<=tvg-id=").*(?=" tvg-logo)/gm);
-console.log("ids", channel_ids);
+let channel_ids = channels.match(/(?<=tvg-id=").*(?=" tvg-logo)/gm);
+console.log("channel_ids", channel_ids);
 
 let channels_xml;
 
@@ -32,7 +32,11 @@ for (const source of sources) {
     channels_xml.channels.channel = [...channels_xml.channels.channel, ...json.channels.channel];
   }
 }
-channels_xml.channels.channel = channels_xml.channels.channel.filter(c => channel_ids.includes(c['@xmltv_id']));
+channels_xml.channels.channel = channels_xml.channels.channel
+  .filter(c => channel_ids.includes(c['@xmltv_id']));
+channel_ids = channels_xml.channels.channel.map(c => c['@xmltv_id']);
+channels_xml.channels.channel = channels_xml.channels.channel
+  .filter((c, i) => channel_ids.indexOf(c['@xmltv_id'] === i));
 console.log("channels_xml", channels_xml);
 
 const channels_xml_path = "docs/channels.xml";
