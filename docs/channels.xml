@@ -1,0 +1,138 @@
+<?xml version="1" encoding="UTF-8"?>
+<channels>
+  <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.uk" site_id="1382">Alaraby TV 2</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="AlManar.lb" site_id="1321">Al-Manar</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="CartoonNetworkArabic.ae" site_id="1242">Network Arabic</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="DubaiOne.ae" site_id="1173">Dubai One</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="LanaTV.lb" site_id="1313">LTV</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBC1.ae" site_id="1127">MBC</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBC3.ae" site_id="1241">MBC 3</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBC4.ae" site_id="1129">MBC 4</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBCBollywood.ae" site_id="1259">MBC Bollywood</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBCDrama.ae" site_id="1194">MBC Drama</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBCPlusDrama.ae" site_id="1131">MBC Drama +</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MTV.lb" site_id="1296">MTV</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="NationalGeographicAbuDhabi.ae" site_id="1266">National Geogra...</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="4Music.uk" site_id="1438/4music">4Music</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCALBA.uk" site_id="1442/bbc-alba">BBC Alba</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="85/bbc-news">BBC News</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEast.uk" site_id="9/bbc-one-east">BBC One East</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="10/bbc-one-east-midlands">BBC One East Midlands</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneLondon.uk" site_id="713/bbc-one-london">BBC One London</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="13/bbc-one-north-east-cumbria">BBC One North East &amp; Cumbria</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="1/bbc-one-northern-ireland">BBC One Northern Ireland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="14/bbc-one-north-west">BBC One North West</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneScotland.uk" site_id="2/bbc-one-scotland">BBC One Scotland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouth.uk" site_id="15/bbc-one-south">BBC One South</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="16/bbc-one-south-east">BBC One South East</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="17/bbc-one-south-west">BBC One South West</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWales.uk" site_id="3/bbc-one-wales">BBC One Wales</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWest.uk" site_id="18/bbc-one-west">BBC One West</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="11/bbc-one-west-midlands">BBC One West Midlands</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneYorkshire.uk" site_id="12/bbc-one-yorkshire">BBC One Yorkshire</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCParliament.uk" site_id="56/bbc-parliament">BBC Parliament</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCRedButton1.uk" site_id="1558/bbc-red-button-1">BBC Red Button 1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCScotland.uk" site_id="2232/bbc-scotland">BBC Scotland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCThree.uk" site_id="935/bbc-three">BBC Three</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="52/bbc-two-england">BBC Two England</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWales.uk" site_id="21/bbc-two-wales">BBC Two Wales</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="CNNInternationalEurope.us" site_id="95/cnn">CNN</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="IdealWorldTV.uk" site_id="1026/ideal-world">Ideal World</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Kerrang.uk" site_id="913/kerrang-tv">Kerrang! TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="KissTV.uk" site_id="410/kiss-tv">Kiss TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="PBSAmerica.uk" site_id="1660/pbs-america">PBS America</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="PopMax.uk" site_id="1862/pop-max">Pop Max</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="QVC.uk" site_id="216/qvc">QVC</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCBeauty.uk" site_id="2256/qvc-beauty">QVC Beauty</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TalkTV.uk" site_id="2361/talk-tv">Talk TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TheBox.uk" site_id="93/the-box">The Box</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="2MInternational.ma" site_id="1#33#2M Monde">2M Monde</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlmagharibiaTV.uk" site_id="1#33#Almagharibia TV">Almagharibia TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AlQamarTV.ae" site_id="1#33#Al Qamar TV">Al Qamar TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="AngelTVArabia.in" site_id="1#33#Angel TV Arabia">Angel TV Arabia</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="BBCArabic.uk" site_id="1#33#BBC Arabic">BBC Arabic</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="CGTNArabic.cn" site_id="1#33#CGTN Arabic">CGTN Arabic</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="France24Arabic.fr" site_id="1#33#France 24 Arabic">France 24 Arabic</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="MBCBollywood.ae" site_id="1#33#MBC Bollywood">MBC Bollywood</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="MBCFM.ae" site_id="1#33#MBC FM">MBC FM</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="NabaaTV.lb" site_id="1#33#Nabaa TV">Nabaa TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="NourAlKoddass.lb" site_id="1#33#Nour Koddass">Nour Koddass</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="NourMariam.lb" site_id="1#33#Nour Mariam TV">Nour Mariam TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="ATNBanglaUK.uk" site_id="6753">ATN</channel>
+  <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IqraBangla.uk" site_id="3914">IQRA Bangla</channel>
+  <channel site="sky.com" lang="en" xmltv_id="4Music.uk" site_id="1350">4Music</channel>
+  <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
+  <channel site="sky.com" lang="en" xmltv_id="AriseNews.uk" site_id="5040">Arise News</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCALBA.uk" site_id="2012">BBC ALBA</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCFour.uk" site_id="2018">BBC Four</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC NEWS</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk" site_id="1006">BBC One</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCParliament.uk" site_id="2072">BBC Parliament</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051">BBC RB 1</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCScotland.uk" site_id="1137">BBC Scotland</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCThree.uk" site_id="2022">BBC Three</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BritAsiaTV.uk" site_id="3653">Brit Asia TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BritishMuslimTV.uk" site_id="5417">British Muslim</channel>
+  <channel site="sky.com" lang="en" xmltv_id="CBBC.uk" site_id="2020">CBBC</channel>
+  <channel site="sky.com" lang="en" xmltv_id="CBeebies.uk" site_id="2019">CBeebies</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Cruise1stTV.uk" site_id="1018">Cruise1st.tv</channel>
+  <channel site="sky.com" lang="en" xmltv_id="EmanChannel.uk" site_id="3111">Eman Channel</channel>
+  <channel site="sky.com" lang="en" xmltv_id="GBNews.uk" site_id="1196">GB News HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="GemsTV.uk" site_id="3010">Gems TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IdealWorldTV.uk" site_id="5212">Ideal World</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IonTV.uk" site_id="4461">iON TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IqraTV.uk" site_id="6754">IQRA TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IslamChannel.uk" site_id="3214">Islam Channel</channel>
+  <channel site="sky.com" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">JewelleryMaker</channel>
+  <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Kerrang.uk" site_id="1853">Kerrang!</channel>
+  <channel site="sky.com" lang="en" xmltv_id="KICCTV.uk" site_id="3776">KICC TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="KissTV.uk" site_id="1858">KISS</channel>
+  <channel site="sky.com" lang="en" xmltv_id="LoveWorldUK.uk" site_id="1228">LoveWorld HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1834">MUTV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NBCNewsNOW.us" site_id="1039">NBCNewsNowHD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NOWRock.uk" site_id="3682">NOW ROCK</channel>
+  <channel site="sky.com" lang="en" xmltv_id="PBSAmerica.uk" site_id="5500">PBS America</channel>
+  <channel site="sky.com" lang="en" xmltv_id="PopMax.uk" site_id="4262">POP Max</channel>
+  <channel site="sky.com" lang="en" xmltv_id="QVCBeauty.uk" site_id="4105">QVC Beauty</channel>
+  <channel site="sky.com" lang="en" xmltv_id="QVCExtra.uk" site_id="3359">QVC Extra</channel>
+  <channel site="sky.com" lang="en" xmltv_id="S4C.uk" site_id="5701">S4C</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SportyStuffTV.uk" site_id="1223">SportyStuff HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TalkTV.uk" site_id="1078">TalkTV HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TheBox.uk" site_id="1802">BoXmas</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TJC.uk" site_id="1033">TJC</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TVOne.uk" site_id="5426">TV One</channel>
+  <channel site="sky.com" lang="en" xmltv_id="ViaplayXtra.uk" site_id="1150">ViaplayXtraHD</channel>
+  <channel site="sky.com" lang="hi" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
+  <channel site="sky.com" lang="en" xmltv_id="IslamChannelUrdu.uk" site_id="5211">Islam Ch Urdu</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
+</channels>
