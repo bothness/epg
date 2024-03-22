@@ -123,6 +123,8 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="Lebanon",Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Lebanon",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Palestine",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="7alaTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Palestine",7ala TV [Geo-blocked]
@@ -246,6 +248,8 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-id="WattanTV.ps" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Palestine",Wattan TV (720p) [Not 24/7]
 http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Palestine",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="United Kingdom",4Music (480p) [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="United Kingdom",24h
