@@ -1,4 +1,4 @@
-<?xml version="1" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.uk" site_id="1382">Alaraby TV 2</channel>
@@ -22,7 +22,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEast.uk" site_id="9/bbc-one-east">BBC One East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="10/bbc-one-east-midlands">BBC One East Midlands</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneLondon.uk" site_id="713/bbc-one-london">BBC One London</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="13/bbc-one-north-east-cumbria">BBC One North East &amp; Cumbria</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthEastCumbria.uk" site_id="13/bbc-one-north-east-cumbria">BBC One North East & Cumbria</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthernIreland.uk" site_id="1/bbc-one-northern-ireland">BBC One Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneNorthWest.uk" site_id="14/bbc-one-north-west">BBC One North West</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneScotland.uk" site_id="2/bbc-one-scotland">BBC One Scotland</channel>
