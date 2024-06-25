@@ -15,7 +15,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="4Music.uk" site_id="1438/4music">4Music</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="85/bbc-news">BBC News</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEast.uk" site_id="9/bbc-one-east">BBC One East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="10/bbc-one-east-midlands">BBC One East Midlands</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneLondon.uk" site_id="713/bbc-one-london">BBC One London</channel>
@@ -86,7 +85,6 @@
   <channel site="sky.com" lang="en" xmltv_id="AriseNews.uk" site_id="5040">Arise News</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCFour.uk" site_id="2018">BBC Four</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCNews.uk" site_id="2011">BBC NEWS</channel>
-  <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk" site_id="1006">BBC One</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCParliament.uk" site_id="2072">BBC Parliament</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051">BBC RB 1</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCScotland.uk" site_id="1137">BBC Scotland</channel>
