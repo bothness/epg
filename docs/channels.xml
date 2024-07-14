@@ -73,7 +73,6 @@
   <channel site="sat.tv" lang="en" xmltv_id="NourAlKoddass.lb" site_id="1#33#Nour Koddass">Nour Koddass</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourMariam.lb" site_id="1#33#Nour Mariam TV">Nour Mariam TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
-  <channel site="sky.com" lang="en" xmltv_id="ATNBanglaUK.uk" site_id="6753">ATN</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="IqraBangla.uk" site_id="3914">IQRA Bangla</channel>
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
@@ -118,7 +117,6 @@
   <channel site="sky.com" lang="en" xmltv_id="TalkTV.uk" site_id="1078">TalkTV HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
   <channel site="sky.com" lang="en" xmltv_id="TJC.uk" site_id="1033">TJC</channel>
-  <channel site="sky.com" lang="en" xmltv_id="TVOne.uk" site_id="5426">TV One</channel>
   <channel site="sky.com" lang="hi" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
   <channel site="sky.com" lang="en" xmltv_id="IslamChannelUrdu.uk" site_id="5211">Islam Ch Urdu</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
