@@ -41,6 +41,9 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="IdealWorldTV.uk" site_id="1026/ideal-world">Ideal World</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="NickJr.uk" site_id="195/nick-jr">Nick Jr.</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Nicktoons.uk" site_id="874/nickloudhouse">NickLoudHouse</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
@@ -83,6 +86,7 @@
   <channel site="sky.com" lang="en" xmltv_id="BBCRedButton1.uk" site_id="2051">BBC RB 1</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCScotland.uk" site_id="1137">BBC Scotland</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCThree.uk" site_id="2022">BBC Three</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk" site_id="2006">BBC Two</channel>
   <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BritAsiaTV.uk" site_id="3653">Brit Asia TV</channel>
@@ -104,6 +108,10 @@
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1834">MUTV</channel>
   <channel site="sky.com" lang="en" xmltv_id="NBCNewsNOW.us" site_id="1039">NBCNewsNowHD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="1857">Nick Jr.</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="4039">Nick Jr. HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="1849">NickSpongeBob</channel>
   <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
