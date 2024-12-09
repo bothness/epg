@@ -41,7 +41,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NickJr.uk" site_id="195/nick-jr">Nick Jr.</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="Nicktoons.uk" site_id="874/nickloudhouse">NickLoudHouse</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
@@ -52,7 +51,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="TalkTV.uk" site_id="2361/talk-tv">Talk TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="2MInternational.ma" site_id="1#33#2M Monde">2M Monde</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
