@@ -76,7 +76,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 #EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="Lebanon",MBC FM (1080p)
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-logo="https://i.imgur.com/p8eRgSs.png" group-title="Lebanon",Nabaa TV (720p) [Not 24/7]
-https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Lebanon",National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NBN.lb" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="Lebanon",NBN (720p)
@@ -504,7 +504,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 #EXTINF:-1 tvg-id="LollyKids.uk" tvg-logo="https://i.imgur.com/DOpgaBe.png" group-title="United Kingdom",Lolly Kids (480p)
 http://45.225.95.170:8000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-id="LoveWorldUK.uk" tvg-logo="" group-title="United Kingdom",Loveworld TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="United Kingdom",Loveworld TV (1080p) [Not 24/7]
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="United Kingdom",Magna Vision (1080p)
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
