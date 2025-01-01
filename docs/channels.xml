@@ -72,11 +72,11 @@
   <channel site="sat.tv" lang="en" xmltv_id="NourAlKoddass.lb" site_id="1#33#Nour Koddass">Nour Koddass</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourMariam.lb" site_id="1#33#Nour Mariam TV">Nour Mariam TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
+  <channel site="sky.com" lang="en" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
   <channel site="sky.com" lang="en" xmltv_id="AriseNews.uk" site_id="5040">Arise News</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOneSouthWestHD.uk" site_id="3014">BBC One SW HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1206">BLAZE</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BritAsiaTV.uk" site_id="3653">Brit Asia TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
@@ -94,12 +94,8 @@
   <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="2517">Nickelodeon</channel>
   <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="1857">Nick Jr.</channel>
-  <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="3356">Nick Jr.</channel>
-  <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="4039">Nick Jr. HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="1849">Nicktoons</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="5527">Nicktoons</channel>
   <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
@@ -110,7 +106,7 @@
   <channel site="sky.com" lang="en" xmltv_id="QVCExtra.uk" site_id="3359">QVC Extra</channel>
   <channel site="sky.com" lang="en" xmltv_id="S4C.uk" site_id="5701">S4C</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
+  <channel site="sky.com" lang="en" xmltv_id="STV.uk" site_id="6210">STV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
-  <channel site="sky.com" lang="hi" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
 </channels>
