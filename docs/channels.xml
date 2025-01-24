@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlManar.lb" site_id="1321">Al-Manar</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="DubaiOne.ae" site_id="1173">Dubai One</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="LanaTV.lb" site_id="1313">LTV</channel>
@@ -34,13 +33,10 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="52/bbc-two-england">BBC Two England</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWales.uk" site_id="21/bbc-two-wales">BBC Two Wales</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="NickJr.uk" site_id="195/nick-jr">Nick Jr.</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
@@ -51,7 +47,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
-  <channel site="sat.tv" lang="en" xmltv_id="2MInternational.ma" site_id="1#33#2M Monde">2M Monde</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
@@ -70,11 +65,8 @@
   <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
   <channel site="sky.com" lang="en" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
-  <channel site="sky.com" lang="en" xmltv_id="AriseNews.uk" site_id="5040">Arise News</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOneSouthWestHD.uk" site_id="3014">BBC One SW HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="BritAsiaTV.uk" site_id="3653">Brit Asia TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="EmanChannel.uk" site_id="3111">Eman Channel</channel>
@@ -88,9 +80,6 @@
   <channel site="sky.com" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">JewelleryMaker</channel>
   <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
-  <channel site="sky.com" lang="en" xmltv_id="NickJr.uk" site_id="1857">Nick Jr.</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="1849">Nicktoons</channel>
   <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
