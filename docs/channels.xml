@@ -4,6 +4,7 @@
   <channel site="elcinema.com" lang="en" xmltv_id="DubaiOne.ae" site_id="1173">Dubai One</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="LanaTV.lb" site_id="1313">LTV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBC1.ae" site_id="1127">MBC</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MBC2.ae" site_id="1128">MBC 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBC3.ae" site_id="1241">MBC 3</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBC4.ae" site_id="1129">MBC 4</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBCBollywood.ae" site_id="1259">MBC Bollywood</channel>
@@ -21,7 +22,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouth.uk" site_id="15/bbc-one-south">BBC One South</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouthEast.uk" site_id="16/bbc-one-south-east">BBC One South East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouthWest.uk" site_id="17/bbc-one-south-west">BBC One South West</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneSouthWestHD.uk" site_id="2372/bbc-one-south-west-hd">BBC One South West HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWales.uk" site_id="3/bbc-one-wales">BBC One Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWest.uk" site_id="18/bbc-one-west">BBC One West</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneWestMidlands.uk" site_id="11/bbc-one-west-midlands">BBC One West Midlands</channel>
@@ -55,6 +55,7 @@
   <channel site="sat.tv" lang="en" xmltv_id="BBCArabic.uk" site_id="1#33#BBC Arabic">BBC Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CGTNArabic.cn" site_id="1#33#CGTN Arabic">CGTN Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="FalastiniTV.ps" site_id="1#33#Falastini TV">Falastini TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="France24Arabic.fr" site_id="1#33#France 24 Arabic">France 24 Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCBollywood.ae" site_id="1#33#MBC Bollywood">MBC Bollywood</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
@@ -65,7 +66,6 @@
   <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
   <channel site="sky.com" lang="en" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
-  <channel site="sky.com" lang="en" xmltv_id="BBCOneSouthWestHD.uk" site_id="3014">BBC One SW HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
@@ -92,5 +92,4 @@
   <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
   <channel site="sky.com" lang="en" xmltv_id="STV.uk" site_id="6210">STV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
-  <channel site="sky.com" lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
 </channels>
