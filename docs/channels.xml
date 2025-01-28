@@ -33,6 +33,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoEngland.uk" site_id="52/bbc-two-england">BBC Two England</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWales.uk" site_id="21/bbc-two-wales">BBC Two Wales</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="CartoonNetwork.uk" site_id="102/cartoon-network">Cartoon Network</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
@@ -41,12 +42,13 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="PBSAmerica.uk" site_id="1660/pbs-america">PBS America</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="PopMax.uk" site_id="1862/pop-max">Pop Max</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Pop.uk" site_id="1403/pop">Pop</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVC.uk" site_id="216/qvc">QVC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCBeauty.uk" site_id="2256/qvc-beauty">QVC Beauty</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk" site_id="1402/tiny-pop">Tiny Pop</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
@@ -67,6 +69,7 @@
   <channel site="sky.com" lang="en" xmltv_id="AajTak.in" site_id="3255">AAJ TAK</channel>
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="CartoonNetwork.uk" site_id="5601">Cartoon Netwrk</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="EmanChannel.uk" site_id="3111">Eman Channel</channel>
@@ -85,11 +88,12 @@
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
   <channel site="sky.com" lang="en" xmltv_id="NOWRock.uk" site_id="3682">NOW ROCK</channel>
   <channel site="sky.com" lang="en" xmltv_id="PBSAmerica.uk" site_id="5500">PBS America</channel>
-  <channel site="sky.com" lang="en" xmltv_id="PopMax.uk" site_id="4262">POP Max</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Pop.uk" site_id="3750">POP</channel>
   <channel site="sky.com" lang="en" xmltv_id="QVCBeauty.uk" site_id="4105">QVC Beauty</channel>
   <channel site="sky.com" lang="en" xmltv_id="QVCExtra.uk" site_id="3359">QVC Extra</channel>
   <channel site="sky.com" lang="en" xmltv_id="S4C.uk" site_id="5701">S4C</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
   <channel site="sky.com" lang="en" xmltv_id="STV.uk" site_id="6210">STV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TinyPop.uk" site_id="1234">Tiny Pop</channel>
 </channels>
