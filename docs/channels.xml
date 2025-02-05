@@ -37,6 +37,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVLive.uk" site_id="1762/mtv-live-hd">MTV Live HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
