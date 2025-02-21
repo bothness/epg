@@ -34,6 +34,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWales.uk" site_id="21/bbc-two-wales">BBC Two Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Cartoonito.uk" site_id="1357/cartoonito">Cartoonito</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CartoonNetwork.uk" site_id="102/cartoon-network">Cartoon Network</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
@@ -72,6 +73,7 @@
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
   <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Cartoonito.uk" site_id="1371">Cartoonito</channel>
   <channel site="sky.com" lang="en" xmltv_id="CartoonNetwork.uk" site_id="5601">Cartoon Netwrk</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
