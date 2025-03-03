@@ -34,13 +34,13 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoNorthernIreland.uk" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwoWales.uk" site_id="21/bbc-two-wales">BBC Two Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="Cartoonito.uk" site_id="1357/cartoonito">Cartoonito</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="CartoonNetwork.uk" site_id="102/cartoon-network">Cartoon Network</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV1CentralHD.uk" site_id="1656/itv1-central-hd">ITV1 Central HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVLive.uk" site_id="1762/mtv-live-hd">MTV Live HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
@@ -73,8 +73,6 @@
   <channel site="sky.com" lang="en" xmltv_id="AkaalChannel.uk" site_id="5087">Akaal Channel</channel>
   <channel site="sky.com" lang="en" xmltv_id="Blaze.uk" site_id="1065">BLAZE</channel>
   <channel site="sky.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="1074">Bloomberg HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Cartoonito.uk" site_id="1371">Cartoonito</channel>
-  <channel site="sky.com" lang="en" xmltv_id="CartoonNetwork.uk" site_id="5601">Cartoon Netwrk</channel>
   <channel site="sky.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="1088">CNBC HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="DeenTV.uk" site_id="1235">Deen TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="EmanChannel.uk" site_id="3111">Eman Channel</channel>
@@ -86,6 +84,8 @@
   <channel site="sky.com" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">JewelleryMaker</channel>
   <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="1849">Nicktoons</channel>
   <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
