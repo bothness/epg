@@ -54,7 +54,11 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="1946/talking-pictures-tv">Talking Pictures TV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="ThatsTV.uk" site_id="2351/thats-tv">That's TV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk" site_id="1402/tiny-pop">Tiny Pop</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPopPlus1.uk" site_id="1545/tiny-pop-1">Tiny Pop +1</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TogetherTV.uk" site_id="1288/together-tv">Together TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
@@ -101,6 +105,13 @@
   <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
   <channel site="sky.com" lang="en" xmltv_id="STV.uk" site_id="6210">STV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="5252">TalkingPictures</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TBNUK.uk" site_id="3109">TBN UK</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Thats70s.uk" site_id="1311">That's TV 2</channel>
+  <channel site="sky.com" lang="en" xmltv_id="ThatsTV.uk" site_id="1017">That's TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TinyPop.uk" site_id="1234">Tiny Pop</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TinyPopPlus1.uk" site_id="1288">Tiny Pop+1</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TogetherTV.uk" site_id="1872">Together</channel>
+  <channel site="sky.com" lang="en" xmltv_id="TVOne.uk" site_id="5426">TV One</channel>
   <channel site="sky.com" lang="en" xmltv_id="TVWarehouse.uk" site_id="3632">TV Warehouse</channel>
 </channels>
