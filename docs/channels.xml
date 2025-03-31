@@ -16,6 +16,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="85/bbc-news">BBC News</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneChannelIslands.uk" site_id="1663/bbc-one-channel-islands">BBC One Channel Islands</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEast.uk" site_id="9/bbc-one-east">BBC One East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneEastMidlands.uk" site_id="10/bbc-one-east-midlands">BBC One East Midlands</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOneLondon.uk" site_id="713/bbc-one-london">BBC One London</channel>
@@ -71,12 +72,10 @@
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlQamarTV.ae" site_id="1#33#Al Qamar TV">Al Qamar TV</channel>
-  <channel site="sat.tv" lang="en" xmltv_id="AngelTVArabia.in" site_id="1#33#Angel TV Arabia">Angel TV Arabia</channel>
   <channel site="sat.tv" lang="en" xmltv_id="BBCArabic.uk" site_id="1#33#BBC Arabic">BBC Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CGTNArabic.cn" site_id="1#33#CGTN Arabic">CGTN Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
   <channel site="sat.tv" lang="en" xmltv_id="FalastiniTV.ps" site_id="1#33#Falastini TV">Falastini TV</channel>
-  <channel site="sat.tv" lang="en" xmltv_id="France24Arabic.fr" site_id="1#33#France 24 Arabic">France 24 Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCBollywood.ae" site_id="1#33#MBC Bollywood">MBC Bollywood</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCFM.ae" site_id="1#33#MBC FM">MBC FM</channel>
