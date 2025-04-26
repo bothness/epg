@@ -16,7 +16,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCParliament.uk" site_id="56/bbc-parliament">BBC Parliament</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCRedButton1.uk" site_id="1558/bbc-red-button-1">BBC Red Button 1</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCScotland.uk" site_id="2232/bbc-scotland">BBC Scotland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCThree.uk" site_id="935/bbc-three">BBC Three</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
@@ -31,6 +30,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV3.uk" site_id="1065/itv3">ITV3</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV4.uk" site_id="1174/itv4">ITV4</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVLive.uk" site_id="1762/mtv-live-hd">MTV Live HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVMusic.uk" site_id="1632/mtv-music">MTV Music</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
@@ -78,6 +78,7 @@
   <channel site="sky.com" lang="en" xmltv_id="IslamChannelUrdu.uk" site_id="5211">Islam Ch Urdu</channel>
   <channel site="sky.com" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">JewelleryMaker</channel>
   <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="MTVMusic.uk" site_id="2512">MTV MUSIC</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
   <channel site="sky.com" lang="en" xmltv_id="Nicktoons.uk" site_id="1849">Nicktoons</channel>
