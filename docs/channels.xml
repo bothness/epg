@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="elcinema.com" lang="en" xmltv_id="2MMonde.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.qa" site_id="1382">Alaraby TV 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlManar.lb" site_id="1321">Al-Manar</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="DubaiOne.ae" site_id="1173">Dubai One</channel>
