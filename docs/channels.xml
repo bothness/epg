@@ -53,7 +53,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="NOWRock.uk" site_id="1977/now-rock">NOW Rock</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="PBSAmerica.uk" site_id="1660/pbs-america">PBS America</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Pop.uk" site_id="1403/pop">Pop</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVC.uk" site_id="216/qvc">QVC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCBeauty.uk" site_id="2256/qvc-beauty">QVC Beauty</channel>
@@ -114,7 +113,6 @@
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now80s.uk" site_id="4541">NOW 80s</channel>
   <channel site="sky.com" lang="en" xmltv_id="NOWRock.uk" site_id="3682">NOW ROCK</channel>
-  <channel site="sky.com" lang="en" xmltv_id="PBSAmerica.uk" site_id="5500">PBS America</channel>
   <channel site="sky.com" lang="en" xmltv_id="Pop.uk" site_id="3750">POP</channel>
   <channel site="sky.com" lang="en" xmltv_id="QVCBeauty.uk" site_id="4105">QVC Beauty</channel>
   <channel site="sky.com" lang="en" xmltv_id="QVCExtra.uk" site_id="3359">QVC Extra</channel>
