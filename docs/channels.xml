@@ -24,6 +24,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@South" site_id="15/bbc-one-south">BBC One South</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthEast" site_id="16/bbc-one-south-east">BBC One South East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthWest" site_id="17/bbc-one-south-west">BBC One South West</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthWestHD" site_id="2372/bbc-one-south-west-hd">BBC One South West HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@Wales" site_id="3/bbc-one-wales">BBC One Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@West" site_id="18/bbc-one-west">BBC One West</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@WestMidlands" site_id="11/bbc-one-west-midlands">BBC One West Midlands</channel>
@@ -31,6 +32,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCParliament.uk" site_id="56/bbc-parliament">BBC Parliament</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCScotland.uk" site_id="2232/bbc-scotland">BBC Scotland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCThree.uk" site_id="935/bbc-three">BBC Three</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCThree.uk@HD" site_id="1852/bbc-three-hd">BBC Three HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="1782/bbc-two-hd">BBC Two HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@NorthernIreland" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="2156/bbc-two-northern-ireland-hd">BBC Two Northern Ireland HD</channel>
@@ -87,6 +89,8 @@
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD" site_id="1098">BBC One NI HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD" site_id="2081">BBC One NI HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@ScotlandHD" site_id="2082">BBC One ScotHD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@SouthWestHD" site_id="3014">BBC One SW HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCThree.uk@HD" site_id="2080">BBC Three HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="2075">BBC Two HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="1135">BBC Two NI HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="3019">BBC Two NI HD</channel>
