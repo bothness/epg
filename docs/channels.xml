@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="elcinema.com" lang="en" xmltv_id="2MMonde.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.qa" site_id="1382">Alaraby TV 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlManar.lb" site_id="1321">Al-Manar</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="DubaiOne.ae" site_id="1173">Dubai One</channel>
@@ -66,7 +65,6 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk" site_id="1402/tiny-pop">Tiny Pop</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk@Plus1" site_id="1545/tiny-pop-1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TogetherTV.uk" site_id="1288/together-tv">Together TV</channel>
-  <channel site="sat.tv" lang="en" xmltv_id="2MMonde.ma" site_id="1#33#2M Monde">2M Monde</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlForatTV.iq" site_id="1#33#Al Forat">Al Forat</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlIttihadTV.lb" site_id="1#33#Al Ittihad TV">Al Ittihad TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
