@@ -8,11 +8,9 @@
   <channel site="elcinema.com" lang="en" xmltv_id="MBC2.ae" site_id="1128">MBC 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBC3.ae" site_id="1241">MBC 3</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBC4.ae" site_id="1129">MBC 4</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="MBCBollywood.ae" site_id="1259">MBC Bollywood</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBCDrama.ae" site_id="1194">MBC Drama</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBCPlusDrama.sa" site_id="1131">MBC Drama +</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="NationalGeographicAbuDhabi.ae" site_id="1266">National Geogra...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="ZeeAlwan.ae" site_id="1261">Zee alwan</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@East" site_id="9/bbc-one-east">BBC One East</channel>
@@ -75,7 +73,6 @@
   <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
   <channel site="sat.tv" lang="en" xmltv_id="FalastiniTV.ps" site_id="1#33#Falastini TV">Falastini TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="France24.fr@Arabic" site_id="1#33#France 24 Arabic">France 24 Arabic</channel>
-  <channel site="sat.tv" lang="en" xmltv_id="MBCBollywood.ae" site_id="1#33#MBC Bollywood">MBC Bollywood</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCFM.ae" site_id="1#33#MBC FM">MBC FM</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NabaaTV.lb" site_id="1#33#Nabaa TV">Nabaa TV</channel>
