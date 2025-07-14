@@ -79,7 +79,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FalestinonaChannel.lb" tvg-logo="https://i.imgur.com/Z3QeQHk.png" group-title="Lebanon",Falestinona Channel (576p)
 https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Lebanon",France 24 Arabic (1080p)
+#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Lebanon",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="Lebanon",Future TV (1080p)
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
@@ -241,7 +241,7 @@ http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
 http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Palestine",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Palestine",France 24 Arabic (1080p)
+#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="Palestine",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="HalaRamallah.ps" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Palestine",Hala Ramallah (720p)
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
