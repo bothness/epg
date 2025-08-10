@@ -64,6 +64,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCExtra.uk" site_id="2257/qvc-extra">QVC Extra</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="QVCStyle.uk" site_id="2259/qvc-style">QVC Style</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="S4C.uk" site_id="645/s4c">S4C</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk@HD" site_id="1448/sky-cinema-family-hd">Sky Cinema Family HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="1946/talking-pictures-tv">Talking Pictures TV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ThatsTV.uk" site_id="2351/thats-tv">That's TV</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk" site_id="1402/tiny-pop">Tiny Pop</channel>
@@ -125,6 +126,7 @@
   <channel site="sky.com" lang="en" xmltv_id="QVCBeauty.uk" site_id="4105">QVC Beauty</channel>
   <channel site="sky.com" lang="en" xmltv_id="QVCExtra.uk" site_id="3359">QVC Extra</channel>
   <channel site="sky.com" lang="en" xmltv_id="S4C.uk" site_id="5701">S4C</channel>
+  <channel site="sky.com" lang="en" xmltv_id="SkyCinemaFamily.uk@HD" site_id="4018">Sky Family HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyNewsArabia.ae" site_id="4645">SkyNewsArabia</channel>
   <channel site="sky.com" lang="en" xmltv_id="TakbeerTV.uk" site_id="4408">Takbeer TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="TalkingPicturesTV.uk" site_id="5252">TalkingPictures</channel>
