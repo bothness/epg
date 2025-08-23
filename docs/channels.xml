@@ -8,6 +8,7 @@
   <channel site="elcinema.com" lang="en" xmltv_id="MBC2.ae" site_id="1128">MBC 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBCDrama.ae" site_id="1194">MBC Drama</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MBCPlusDrama.sa" site_id="1131">MBC Drama +</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MTV.lb" site_id="1296">MTV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="NationalGeographicAbuDhabi.ae" site_id="1266">National Geogra...</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCFour.uk" site_id="742/bbc-four">BBC Four</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk" site_id="4/bbc-one">BBC One</channel>
@@ -50,11 +51,11 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Film4.uk@HD" site_id="1581/film4-hd">Film4 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="2339/gb-news">GB News</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="GREATmovies.uk" site_id="1680/great-movies">GREAT! movies</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV3.uk" site_id="1065/itv3">ITV3</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV4.uk" site_id="1174/itv4">ITV4</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="More4.uk@HD" site_id="1780/more4-hd">More4 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVLive.uk" site_id="1762/mtv-live-hd">MTV Live HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MTVMusic.uk" site_id="1632/mtv-music">MTV Music</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTV.uk" site_id="229/mutv">MUTV</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="1535/nhk-world">NHK World</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Nickelodeon.uk" site_id="188/nickelodeon">Nickelodeon</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now70s.uk" site_id="1917/now-70s">NOW 70s</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Now80s.uk" site_id="1915/now-80s">NOW 80s</channel>
@@ -76,6 +77,7 @@
   <channel site="sat.tv" lang="en" xmltv_id="AlMayadeenTV.lb" site_id="1#33#Al Mayadeen TV">Al Mayadeen TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AlQamarTV.ae" site_id="1#33#Al Qamar TV">Al Qamar TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="AngelTV.in@Arabia" site_id="1#33#Angel TV Arabia">Angel TV Arabia</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="BahrainInternational.bh" site_id="1#33#Bahrain International">Bahrain International</channel>
   <channel site="sat.tv" lang="en" xmltv_id="BBCArabic.uk" site_id="1#33#BBC Arabic">BBC Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CGTNArabic.cn" site_id="1#33#CGTN Arabic">CGTN Arabic</channel>
   <channel site="sat.tv" lang="en" xmltv_id="CNBCArabiya.ae" site_id="1#33#CNBC Arabiya">CNBC Arabiya</channel>
@@ -84,6 +86,7 @@
   <channel site="sat.tv" lang="en" xmltv_id="MBCDrama.ae" site_id="1#33#MBC Drama">MBC Drama</channel>
   <channel site="sat.tv" lang="en" xmltv_id="MBCFM.ae" site_id="1#33#MBC FM">MBC FM</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NabaaTV.lb" site_id="1#33#Nabaa TV">Nabaa TV</channel>
+  <channel site="sat.tv" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="1#33#NHK World Japan">NHK World Japan</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourAlKoddass.lb" site_id="1#33#Nour Koddass">Nour Koddass</channel>
   <channel site="sat.tv" lang="en" xmltv_id="NourMariam.lb" site_id="1#33#Nour Mariam TV">Nour Mariam TV</channel>
   <channel site="sat.tv" lang="en" xmltv_id="PalestineToday.ps" site_id="1#33#Palestine Today">Palestine Today</channel>
@@ -118,8 +121,10 @@
   <channel site="sky.com" lang="en" xmltv_id="IslamChannelUrdu.uk" site_id="5211">Islam Ch Urdu</channel>
   <channel site="sky.com" lang="en" xmltv_id="JewelleryMaker.uk" site_id="3354">JewelleryMaker</channel>
   <channel site="sky.com" lang="en" xmltv_id="KanshiTV.uk" site_id="3753">Kanshi TV</channel>
+  <channel site="sky.com" lang="en" xmltv_id="More4.uk@HD" site_id="4043">More4 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="MTVMusic.uk" site_id="2512">MTV MUSIC</channel>
   <channel site="sky.com" lang="en" xmltv_id="MUTV.uk" site_id="1003">MUTV HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="3147">NHK World HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Nickelodeon.uk" site_id="1846">Nickelodeon</channel>
   <channel site="sky.com" lang="en" xmltv_id="NoorTV.uk" site_id="3715">Noor TV</channel>
   <channel site="sky.com" lang="en" xmltv_id="Now70s.uk" site_id="3403">NOW 70s</channel>
@@ -141,4 +146,5 @@
   <channel site="sky.com" lang="en" xmltv_id="TogetherTV.uk" site_id="1872">Together</channel>
   <channel site="sky.com" lang="en" xmltv_id="TVOne.uk" site_id="5426">TV One</channel>
   <channel site="sky.com" lang="en" xmltv_id="TVWarehouse.uk" site_id="3632">TV Warehouse</channel>
+  <channel site="sky.com" lang="en" xmltv_id="WION.in" site_id="1084">WION HD</channel>
 </channels>
