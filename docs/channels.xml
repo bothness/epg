@@ -19,6 +19,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthEast" site_id="16/bbc-one-south-east">BBC One South East</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthWest" site_id="17/bbc-one-south-west">BBC One South West</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@SouthWestHD" site_id="2372/bbc-one-south-west-hd">BBC One South West HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@Wales" site_id="3/bbc-one-wales">BBC One Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@West" site_id="18/bbc-one-west">BBC One West</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@WestMidlands" site_id="11/bbc-one-west-midlands">BBC One West Midlands</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCOne.uk@Yorkshire" site_id="12/bbc-one-yorkshire">BBC One Yorkshire</channel>
@@ -31,6 +32,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="1782/bbc-two-hd">BBC Two HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@NorthernIreland" site_id="19/bbc-two-northern-ireland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="2156/bbc-two-northern-ireland-hd">BBC Two Northern Ireland HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCTwo.uk@Wales" site_id="21/bbc-two-wales">BBC Two Wales</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Blaze.uk" site_id="2041/blaze">Blaze</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBBC.uk" site_id="733/cbbc">CBBC</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="CBeebies.uk" site_id="734/cbeebies">CBeebies</channel>
