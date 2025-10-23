@@ -33,6 +33,7 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="More4.uk@HD" site_id="1780/more4-hd">More4 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamily.uk@HD" site_id="1448/sky-cinema-family-hd">Sky Cinema Family HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="TinyPop.uk@Plus1" site_id="1545/tiny-pop-1">Tiny Pop +1</channel>
+  <channel site="sky.com" lang="en" xmltv_id="BBCFour.uk@UKHD" site_id="2086">BBC Four HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD" site_id="3005">BBC One EMidHD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@LondonHD" site_id="3000">BBC One Lon HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD" site_id="3009">BBC One NE HD</channel>
@@ -46,7 +47,12 @@
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="2075">BBC Two HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="1135">BBC Two NI HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD" site_id="3019">BBC Two NI HD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="Channel5.uk@HD" site_id="4058">Channel 5 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel4.uk@UKHD" site_id="1202">Channel 4 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel4.uk@UKHD" site_id="1213">Channel 4 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel4.uk@UKHD" site_id="1248">Channel 4 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel4.uk@UKHD" site_id="1249">Channel 4 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel4.uk@UKHD" site_id="4075">Channel 4 HD</channel>
+  <channel site="sky.com" lang="en" xmltv_id="Channel5.uk@HD" site_id="4058">5 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="Film4.uk@HD" site_id="4044">Film4 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="More4.uk@HD" site_id="4043">More4 HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkyCinemaFamily.uk@HD" site_id="4018">Sky Family HD</channel>
