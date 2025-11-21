@@ -64,7 +64,6 @@
   <channel site="mytelly.co.uk" site_id="2339/gb-news" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="mytelly.co.uk" site_id="2351/thats-tv" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
   <channel site="mytelly.co.uk" site_id="2365/bbc-one-east-midlands-hd" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One East Midlands HD</channel>
-  <channel site="mytelly.co.uk" site_id="2366/bbc-one-london-hd" lang="en" xmltv_id="BBCOne.uk@LondonHD">BBC One London HD</channel>
   <channel site="mytelly.co.uk" site_id="2367/bbc-one-north-east-cumbria-hd" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">BBC One North East & Cumbria HD</channel>
   <channel site="mytelly.co.uk" site_id="2368/bbc-one-north-west-hd" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One North West HD</channel>
   <channel site="mytelly.co.uk" site_id="2372/bbc-one-south-west-hd" lang="en" xmltv_id="BBCOne.uk@SouthWestHD">BBC One South West HD</channel>
@@ -103,7 +102,6 @@
   <channel site="sky.com" site_id="2305" lang="en" xmltv_id="UYesterday.uk@SD">U&Yesterday</channel>
   <channel site="sky.com" site_id="2512" lang="en" xmltv_id="MTVMusic.uk@SD">MTV MUSIC</channel>
   <channel site="sky.com" site_id="2617" lang="en" xmltv_id="UW.uk@SD">U&W</channel>
-  <channel site="sky.com" site_id="3000" lang="en" xmltv_id="BBCOne.uk@LondonHD">BBC One Lon HD</channel>
   <channel site="sky.com" site_id="3005" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One EMidHD</channel>
   <channel site="sky.com" site_id="3007" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One NW HD</channel>
   <channel site="sky.com" site_id="3009" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">BBC One NE HD</channel>
