@@ -55,6 +55,7 @@
   <channel site="mytelly.co.uk" site_id="1946/talking-pictures-tv" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">Talking Pictures TV</channel>
   <channel site="mytelly.co.uk" site_id="1977/now-rock" lang="en" xmltv_id="NOWRock.uk@SD">NOW Rock</channel>
   <channel site="mytelly.co.uk" site_id="2041/blaze" lang="en" xmltv_id="Blaze.uk@SD">Blaze</channel>
+  <channel site="mytelly.co.uk" site_id="2116/sanskar" lang="en" xmltv_id="SanskarUK.in@SD">Sanskar</channel>
   <channel site="mytelly.co.uk" site_id="2156/bbc-two-northern-ireland-hd" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="2232/bbc-scotland" lang="en" xmltv_id="BBCScotland.uk@SD">BBC Scotland</channel>
   <channel site="mytelly.co.uk" site_id="2256/qvc-beauty" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
