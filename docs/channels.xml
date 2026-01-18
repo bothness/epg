@@ -76,6 +76,7 @@
   <channel site="sat.tv" site_id="1#33#Nour Mariam TV" lang="en" xmltv_id="NourMariam.lb@SD">Nour Mariam TV</channel>
   <channel site="sat.tv" site_id="1#33#Palestine Today" lang="en" xmltv_id="PalestineToday.ps@SD">Palestine Today</channel>
   <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
+  <channel site="sky.com" site_id="1016" lang="en" xmltv_id="ZeeTVUK.uk@HD">Zee TV HD</channel>
   <channel site="sky.com" site_id="1017" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
   <channel site="sky.com" site_id="1098" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One NI HD</channel>
