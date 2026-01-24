@@ -38,6 +38,7 @@
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
   <channel site="mytelly.co.uk" site_id="1448/sky-cinema-family-hd" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Cinema Family HD</channel>
+  <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
   <channel site="mytelly.co.uk" site_id="1580/channel-5-hd" lang="en" xmltv_id="Channel5.uk@HD">Channel 5 HD</channel>
