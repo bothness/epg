@@ -43,7 +43,6 @@
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
   <channel site="mytelly.co.uk" site_id="1580/channel-5-hd" lang="en" xmltv_id="Channel5.uk@HD">Channel 5 HD</channel>
   <channel site="mytelly.co.uk" site_id="1581/film4-hd" lang="en" xmltv_id="Film4.uk@HD">Film4 HD</channel>
-  <channel site="mytelly.co.uk" site_id="1632/mtv-music" lang="en" xmltv_id="MTVMusic.uk@SD">MTV Music</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
@@ -101,7 +100,6 @@
   <channel site="sky.com" site_id="2086" lang="en" xmltv_id="BBCFour.uk@UKHD">BBC Four HD</channel>
   <channel site="sky.com" site_id="2303" lang="en" xmltv_id="UAlibi.uk@SD">U&Alibi</channel>
   <channel site="sky.com" site_id="2305" lang="en" xmltv_id="UYesterday.uk@SD">U&Yesterday</channel>
-  <channel site="sky.com" site_id="2512" lang="en" xmltv_id="MTVMusic.uk@SD">MTV MUSIC</channel>
   <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">SONY MAX</channel>
   <channel site="sky.com" site_id="2617" lang="en" xmltv_id="UW.uk@SD">U&W</channel>
   <channel site="sky.com" site_id="3005" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One EMidHD</channel>
