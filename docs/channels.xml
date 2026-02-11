@@ -37,7 +37,6 @@
   <channel site="mytelly.co.uk" site_id="1288/together-tv" lang="en" xmltv_id="TogetherTV.uk@SD">Together TV</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
-  <channel site="mytelly.co.uk" site_id="1448/sky-cinema-family-hd" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Cinema Family HD</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
@@ -66,7 +65,6 @@
   <channel site="mytelly.co.uk" site_id="2365/bbc-one-east-midlands-hd" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One East Midlands HD</channel>
   <channel site="mytelly.co.uk" site_id="2367/bbc-one-north-east-cumbria-hd" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">BBC One North East & Cumbria HD</channel>
   <channel site="mytelly.co.uk" site_id="2368/bbc-one-north-west-hd" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One North West HD</channel>
-  <channel site="mytelly.co.uk" site_id="2372/bbc-one-south-west-hd" lang="en" xmltv_id="BBCOne.uk@SouthWestHD">BBC One South West HD</channel>
   <channel site="mytelly.co.uk" site_id="2376/bbc-one-yorkshire-hd" lang="en" xmltv_id="BBCOne.uk@YorkshireHD">BBC One Yorkshire HD</channel>
   <channel site="sat.tv" site_id="1#33#Al Ittihad TV" lang="en" xmltv_id="AlIttihadTV.lb@SD">Al Ittihad TV</channel>
   <channel site="sat.tv" site_id="1#33#Al Mayadeen TV" lang="en" xmltv_id="AlMayadeenTV.lb@SD">Al Mayadeen TV</channel>
@@ -81,6 +79,7 @@
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
   <channel site="sky.com" site_id="1098" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One NI HD</channel>
   <channel site="sky.com" site_id="1135" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
+  <channel site="sky.com" site_id="1142" lang="en" xmltv_id="TrueCrime.uk@SD">TRUE CRIME</channel>
   <channel site="sky.com" site_id="1196" lang="en" xmltv_id="GBNews.uk@SD">GB News HD</channel>
   <channel site="sky.com" site_id="1202" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
   <channel site="sky.com" site_id="1213" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
@@ -99,20 +98,18 @@
   <channel site="sky.com" site_id="2082" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One ScotHD</channel>
   <channel site="sky.com" site_id="2086" lang="en" xmltv_id="BBCFour.uk@UKHD">BBC Four HD</channel>
   <channel site="sky.com" site_id="2303" lang="en" xmltv_id="UAlibi.uk@SD">U&Alibi</channel>
-  <channel site="sky.com" site_id="2305" lang="en" xmltv_id="UYesterday.uk@SD">U&Yesterday</channel>
   <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">SONY MAX</channel>
   <channel site="sky.com" site_id="2617" lang="en" xmltv_id="UW.uk@SD">U&W</channel>
   <channel site="sky.com" site_id="3005" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One EMidHD</channel>
   <channel site="sky.com" site_id="3007" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One NW HD</channel>
   <channel site="sky.com" site_id="3009" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">BBC One NE HD</channel>
-  <channel site="sky.com" site_id="3014" lang="en" xmltv_id="BBCOne.uk@SouthWestHD">BBC One SW HD</channel>
   <channel site="sky.com" site_id="3017" lang="en" xmltv_id="BBCOne.uk@YorkshireHD">BBC One Yks HD</channel>
   <channel site="sky.com" site_id="3019" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
   <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="sky.com" site_id="3111" lang="en" xmltv_id="EmanChannel.uk@SD">Eman Channel</channel>
   <channel site="sky.com" site_id="3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
   <channel site="sky.com" site_id="3255" lang="en" xmltv_id="AajTak.in@SD">AAJ TAK</channel>
-  <channel site="sky.com" site_id="3354" lang="en" xmltv_id="JewelleryMaker.uk@SD">JewelleryMaker</channel>
+  <channel site="sky.com" site_id="3352" lang="en" xmltv_id="TrueCrime.uk@SD">TRUE CRIME</channel>
   <channel site="sky.com" site_id="3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="3632" lang="en" xmltv_id="TVWarehouse.uk@SD">TV Warehouse</channel>
@@ -123,7 +120,6 @@
   <channel site="sky.com" site_id="3750" lang="en" xmltv_id="Pop.uk@SD">POP</channel>
   <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="sky.com" site_id="3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
-  <channel site="sky.com" site_id="4018" lang="en" xmltv_id="SkyCinemaFamily.uk@HD">Sky Family HD</channel>
   <channel site="sky.com" site_id="4043" lang="en" xmltv_id="More4.uk@HD">More4 HD</channel>
   <channel site="sky.com" site_id="4044" lang="en" xmltv_id="Film4.uk@HD">Film4 HD</channel>
   <channel site="sky.com" site_id="4058" lang="en" xmltv_id="Channel5.uk@HD">5 HD</channel>
