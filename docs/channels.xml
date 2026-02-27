@@ -79,7 +79,6 @@
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
   <channel site="sky.com" site_id="1098" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One NI HD</channel>
   <channel site="sky.com" site_id="1135" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
-  <channel site="sky.com" site_id="1142" lang="en" xmltv_id="TrueCrime.uk@SD">TRUE CRIME</channel>
   <channel site="sky.com" site_id="1196" lang="en" xmltv_id="GBNews.uk@SD">GB News HD</channel>
   <channel site="sky.com" site_id="1202" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
   <channel site="sky.com" site_id="1213" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
@@ -109,7 +108,6 @@
   <channel site="sky.com" site_id="3111" lang="en" xmltv_id="EmanChannel.uk@SD">Eman Channel</channel>
   <channel site="sky.com" site_id="3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
   <channel site="sky.com" site_id="3255" lang="en" xmltv_id="AajTak.in@SD">AAJ TAK</channel>
-  <channel site="sky.com" site_id="3352" lang="en" xmltv_id="TrueCrime.uk@SD">TRUE CRIME</channel>
   <channel site="sky.com" site_id="3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="3632" lang="en" xmltv_id="TVWarehouse.uk@SD">TV Warehouse</channel>
