@@ -132,5 +132,6 @@
   <channel site="sky.com" site_id="5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="5426" lang="en" xmltv_id="TVOne.uk@SD">TV One</channel>
   <channel site="sky.com" site_id="5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
+  <channel site="sky.com" site_id="6753" lang="en" xmltv_id="ATNBanglaUK.uk@SD">ATN</channel>
   <channel site="sky.com" site_id="6754" lang="en" xmltv_id="IqraTV.uk@SD">IQRA TV</channel>
 </channels>
