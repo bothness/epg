@@ -119,8 +119,8 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="El33.es@SD" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="Andorra",El 33 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Andorra",Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Andorra",Esport3 (1080p)
+http://45.95.78.232:8001/udp/239.106.85.6:5000
 #EXTINF:-1 tvg-id="La2.es@SD" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="Andorra",La 2 (1080p)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="PirineusTV.es@SD" tvg-logo="https://i.imgur.com/8b5znGY.png" group-title="Andorra",Pirineus TV (1080p)
@@ -455,8 +455,6 @@ https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="Australia",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Australia",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="HopeChannelAustralia.au@SD" tvg-logo="https://i.imgur.com/8Zs7rDm.png" group-title="Australia",Hope Channel Australia (1080p)
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Australia",Horse & Country TV (1080p)
@@ -559,8 +557,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es@DE" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="Austria",Love The Planet DE (1080p) [Geo-blocked]
 https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="N24DokuAustria.at@SD" tvg-logo="https://i.imgur.com/qgoXJu4.png" group-title="Austria",N24 Doku
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="ntv.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png" group-title="Austria",n-tv (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de@HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" group-title="Austria",Nachrichten 360 (1080p) [Geo-blocked]
@@ -603,7 +599,7 @@ https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Austria",Red Bull TV DE (1080p)
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLCrime.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Austria",RTL Crime (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Austria",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Austria",RTL Super [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
@@ -2122,6 +2118,9 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="RadioRitmoFM.cl@SD" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="Chile",Radio Ritmo (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" http-referrer="https://retroplustv.com/" group-title="Chile",Retro Plus 2 (720p)
+#EXTVLCOPT:http-referrer=https://retroplustv.com/
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaMariaTelevision.cl@SD" tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="Chile",Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloBailalo.cl@SD" tvg-logo="https://i.imgur.com/SImJE7c.png" group-title="Chile",SoloBáilalo (480p)
@@ -4726,7 +4725,7 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-id="RTLCrime.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Germany",RTL Crime (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Germany",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-id="RTLPassion.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png" group-title="Germany",RTL Passion (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
@@ -6011,8 +6010,6 @@ https://cdn-1.pishow.tv/live/1456/master.m3u8
 https://mumt04.tangotv.in/DISHATV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="India",Disney Channel (576p)
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="India",Disney Channel HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="India",Disney Junior (576p)
 http://103.229.254.25:7001/play/a09r/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" group-title="India",DY 365 (576p)
@@ -6807,14 +6804,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="India",Star Pravah HD (1080p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0453/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="India",Star Sports 1 (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="India",Star Sports 1 HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="India",Star Sports 1 Hindi (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="India",Star Sports 1 Hindi HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Kannada.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_KANNADA/images/LOGO_HD/image.png" group-title="India",Star Sports 1 Kannada (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png" group-title="India",Star Sports 1 Tamil (576p)
@@ -10356,8 +10345,6 @@ https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz@SD" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="New Zealand",Firstlight (576p)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="New Zealand",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="JuiceTV.nz@SD" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="New Zealand",Juice TV (1080p) [Not 24/7]
 https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="KordiaTV.nz@SD" tvg-logo="https://i.imgur.com/BQ0qWzX.png" group-title="New Zealand",Kordia TV (1080p)
@@ -10610,8 +10597,6 @@ http://151.236.247.171:8080/nova/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
 #EXTINF:-1 tvg-id="TVZdravkin.mk@SD" tvg-logo="https://i.imgur.com/w4rRUNQ.png" group-title="North Macedonia",TV Zdravkin (400p)
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 tvg-id="AutoMotorogSportTV.no@SD" tvg-logo="https://i.imgur.com/0YJYgR7.png" group-title="Norway",Auto Motor Sport
-https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 #EXTINF:-1 tvg-id="CanalMotor.no@SD" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Norway",Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="Frikanalen.no@SD" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="Norway",Frikanalen (720p)
@@ -11032,6 +11017,9 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-id="RCR.pe@SD" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="Peru",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" http-referrer="https://retroplustv.com/" group-title="Peru",Retro Plus 2 (720p)
+#EXTVLCOPT:http-referrer=https://retroplustv.com/
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RNTelevision.pe@SD" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Peru",RN Televisión (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Peru",RPP TV
@@ -11189,6 +11177,10 @@ http://cdn-s-lb2.pluscdn.pl/lv/1517832/351/dash/2699af69/live.mpd
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl@SD" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="Poland",Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="History.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Poland",History
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
+#EXTINF:-1 tvg-id="History2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Poland",History 2
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8
 #EXTINF:-1 tvg-id="Jail.pl@Poland" tvg-logo="" group-title="Poland",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="KapitanBombaTV.pl@HD" tvg-logo="https://i.ibb.co/VKjztQj/dark-9999-png-oxoooooooo-256x256.png" group-title="Poland",Kapitan Bomba TV
@@ -11221,6 +11213,8 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://cdn-s-lb2.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="Poland",Polsat News (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#EXTINF:-1 tvg-id="PolsatNews2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png" group-title="Poland",Polsat News 2
+https://lb2-e1-91.pluscdn.pl/lv/1533809/392/hls/4cca941c/masterlist.m3u8
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Poland",Polsat News Polityka (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="Poland",Polsat Sport 1 (1080p) [Geo-blocked]
@@ -11345,8 +11339,6 @@ https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Portugal",FIFA+ Portuguese (720p)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Portugal",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="KTO.fr@SD" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Portugal",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Portugal",Kuriakos Cine (1080p)
@@ -13054,8 +13046,10 @@ https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="101tvSevilla.es@SD" tvg-logo="https://i.imgur.com/GzI3RC4.png" http-referrer="https://player.instantvideocloud.net/" group-title="Spain",101tv Sevilla
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="APunt.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spain",A Punt
-https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Spain",A3Series (1080p)
+http://45.95.78.232:8001/udp/239.106.85.4:5000
+#EXTINF:-1 tvg-id="APunt.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="Spain",À Punt (1080p)
+http://45.95.78.232:8001/udp/239.106.82.1:5000
 #EXTINF:-1 tvg-id="ActivaTV.es@SD" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Spain",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="Spain",Actualidad 360 (1080p) [Geo-blocked]
@@ -13072,6 +13066,8 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do@SD" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Spain",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="Spain",Antena 3 (1080p)
+http://45.95.78.232:8001/udp/239.106.83.1:5000
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="Spain",Antena 3 Internacional (1080p)
 http://187.190.55.136:5501/udp/225.1.1.101:5101
 #EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="Spain",Arabí TV (1080p)
@@ -13082,6 +13078,8 @@ https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png" group-title="Spain",Atreseries Internacional (1080p)
 http://38.183.182.166:8000/play/a104/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Spain",Baby TV Spain (1080p)
+http://45.95.78.232:8001/udp/239.106.86.1:5000
 #EXTINF:-1 tvg-id="BailenTV.es@SD" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="Spain",Bailén TV (720p) [Not 24/7]
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Spain",Barca TV
@@ -13093,6 +13091,8 @@ https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BDN.es@SD" tvg-logo="https://i.imgur.com/ktasO33.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",BDNCOM (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BeMad.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/960px-BeMad_2022_Logo.svg.png" group-title="Spain",BeMad (1080p)
+http://45.95.78.232:8001/udp/239.106.85.1:5000
 #EXTINF:-1 tvg-id="BiosferaTV.es@SD" tvg-logo="https://i.imgur.com/khytcgd.png" group-title="Spain",Biosfera TV (720p) [Not 24/7]
 https://tvdatta.com:3021/live/biosferatvlive.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es@SD" tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="Spain",Bon Dia TV (1080p)
@@ -13133,8 +13133,8 @@ https://canalcoin.garjim.es/hls/directo.m3u8
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 #EXTINF:-1 tvg-id="CanalDonana.es@SD" tvg-logo="https://i.imgur.com/0WrKIxm.png" group-title="Spain",Canal Doñana (720p) [Not 24/7]
 https://secure5.todostreaming.es/live/division-alm.m3u8
-#EXTINF:-1 tvg-id="CanalExtremadura.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="Spain",Canal Extremadura (576p) [Not 24/7]
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="CanalExtremadura.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="Spain",Canal Extremadura (1080p)
+http://45.95.78.232:8001/udp/239.106.90.6:5000
 #EXTINF:-1 tvg-id="CanalLuzTelevision.es@SD" tvg-logo="https://i.imgur.com/H3JzQ1G.jpg" group-title="Spain",Canal Luz Televisión (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es@SD" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="Spain",Canal Málaga RTV (720p) [Not 24/7]
@@ -13148,6 +13148,8 @@ https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es@SD" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="Spain",Canal Sierra de Cádiz (1080p) [Not 24/7]
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="CanalSur.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/960px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png" group-title="Spain",Canal Sur (1080p)
+http://45.95.78.232:8001/udp/239.106.90.2:5000
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="Spain",Canal Sur Andalucia (1080p)
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="CanalSur2.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="Spain",Canal Sur Andalucía 2 (720p)
@@ -13200,6 +13202,8 @@ https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="CristianaTV.es@SD" tvg-logo="https://i.imgur.com/FpkNIIG.jpg" group-title="Spain",Cristiana TV (576p)
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es@SD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro (1080p)
+http://45.95.78.232:8001/udp/239.106.83.2:5000
 #EXTINF:-1 tvg-id="CugatTV.es@SD" tvg-logo="https://i.imgur.com/0WQC25N.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",Cugat TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
@@ -13209,6 +13213,8 @@ https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-id="DistritoTV.es@SD" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="Spain",Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="Divinity.es@SD" tvg-logo="https://i.imgur.com/o7fvEr6.png" group-title="Spain",Divinity (1080p)
+http://45.95.78.232:8001/udp/239.106.83.5:5000
 #EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD" tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="Spain",Durangaldeko Telebista (576p)
 https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 #EXTINF:-1 tvg-id="El9TV.es@SD" tvg-logo="https://i.imgur.com/QyW5VyW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",El 9 TV (1080p)
@@ -13224,10 +13230,12 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="EmpordaTV.es@SD" tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="Spain",Empordà TV (1080p)
 https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:-1 tvg-id="Energy.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png" group-title="Spain",Energy (1080p)
+http://45.95.78.232:8001/udp/239.106.84.4:5000
 #EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Spain",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Spain",Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Spain",Esport3 (1080p)
+http://45.95.78.232:8001/udp/239.106.85.6:5000
 #EXTINF:-1 tvg-id="EsteCanalTV.es@SD" tvg-logo="https://i.imgur.com/jDT5XFs.jpg" group-title="Spain",Este Canal TV (576p)
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1 tvg-id="EsteponaTelevision.es@SD" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="Spain",Estepona Televisión (720p)
@@ -13235,6 +13243,8 @@ https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="EsTuTele.es@SD" tvg-logo="https://i.imgur.com/bsAbcmC.png" http-referrer="https://player.streamingconnect.com/" group-title="Spain",EsTuTele (720p)
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-id="ETB1.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png" group-title="Spain",ETB 1 (1080p)
+http://45.95.78.232:8001/udp/239.106.90.8:5000
 #EXTINF:-1 tvg-id="ETBBasque.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png" http-referrer="https://www.eitb.eus/" group-title="Spain",ETB Basque (720p)
 #EXTVLCOPT:http-referrer=https://www.eitb.eus/
 https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
@@ -13247,6 +13257,8 @@ https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Spain",EWTN Spain & Latin America (720p)
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="Spain",FDF (1080p)
+http://45.95.78.232:8001/udp/239.106.83.7:5000
 #EXTINF:-1 tvg-id="Fibwi.es@SD" tvg-logo="https://i.imgur.com/4vcGzcC.png" group-title="Spain",Fibwi (1080p) [Not 24/7]
 https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Spain",FIFA+ Spain (720p)
@@ -13283,8 +13295,8 @@ https://interalmeria.tv/directo/live.m3u8
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="KTO.fr@SD" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Spain",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-id="La1.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Spain",La 1 (720p)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Spain",La 1 (1080p)
+http://45.95.78.232:8001/udp/239.106.80.1:5000
 #EXTINF:-1 tvg-id="La1Canarias.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Spain",La 1 Canarias (720p)
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="Spain",La 1 Catalunya (720p)
@@ -13295,12 +13307,20 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es@SD" tvg-logo="https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png" group-title="Spain",La 2 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="La7.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/960px-La_7_logo.svg.png" group-title="Spain",La7 Murcia (1080p)
+http://45.95.78.232:8001/udp/239.106.85.5:5000
+#EXTINF:-1 tvg-id="La8Mediterraneo.es@SD" tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" group-title="Spain",La 8 Mediterráneo (1080p)
+http://45.95.78.232:8001/udp/239.106.91.2:5000
+#EXTINF:-1 tvg-id="LaSexta.es@SD" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Spain",La Sexta (1080p)
+http://45.95.78.232:8001/udp/239.106.83.4:5000
 #EXTINF:-1 tvg-id="LaUrbanTV.es@SD" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Spain",La Urban TV (1080p) [Not 24/7]
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es@SD" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="Spain",Lancelot TV (404p)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-#EXTINF:-1 tvg-id="LaOtra.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png" group-title="Spain",LaOtra (720p)
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="LaOtra.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png" group-title="Spain",LaOtra (1080p)
+http://45.95.78.232:8001/udp/239.106.90.4:5000
+#EXTINF:-1 tvg-id="LevanteTV.es@SD" tvg-logo="https://i.imgur.com/8Gtzgan.png" group-title="Spain",Levante TV (1080p)
+http://45.95.78.232:8001/udp/239.106.90.7:5000
 #EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Spain",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="LleidaTelevisio.es@SD" tvg-logo="https://i.imgur.com/xWY2568.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",Lleida Televisió (1080p)
@@ -13325,6 +13345,8 @@ http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 #EXTINF:-1 tvg-id="MataroTelevisio.es@SD" tvg-logo="https://i.imgur.com/FTGbu8A.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",Mataró Televisió (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="Mega.es@SD" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Spain",Mega (1080p)
+http://45.95.78.232:8001/udp/239.106.84.5:5000
 #EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Spain" tvg-logo="https://i.imgur.com/hXDj0fV.png" group-title="Spain",Melrose Place
 https://jmp2.uk/plu-66275eed5e23700008f8c8f9.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="Spain",Mijas 3.40TV (720p)
@@ -13341,8 +13363,12 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="NegociosTV.es@SD" tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="Spain",Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="Neox.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" group-title="Spain",Neox (1080p)
+http://45.95.78.232:8001/udp/239.106.83.8:5000
 #EXTINF:-1 tvg-id="Nortevision.es@SD" tvg-logo="https://i.imgur.com/C5SYw7B.png" group-title="Spain",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Spain",Nova (1080p)
+http://45.95.78.232:8001/udp/239.106.83.6:5000
 #EXTINF:-1 tvg-id="OlotTV.es@SD" tvg-logo="https://i.imgur.com/u8wO4Lf.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",Olot TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=
@@ -13410,8 +13436,8 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.es@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Spain",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spain",Real Madrid TV US Version (720p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/6009b36d-1660-4a24-b1b9-f4d3371b352e/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spain",Real Madrid TV (1080p)
+http://45.95.78.232:8001/udp/239.106.85.7:5000
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Spain",Red Bull TV ES (1080p)
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es@SD" tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="Spain",Ribera TV (576p)
@@ -13446,6 +13472,10 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es@SD" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Spain",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Squirrel.es@SD" tvg-logo="https://i.imgur.com/9y8VcBr.png" group-title="Spain",Squirrel (1080p)
+http://45.95.78.232:8001/udp/239.106.84.2:5000
+#EXTINF:-1 tvg-id="Squirrel2.es@SD" tvg-logo="https://i.imgur.com/BDv4ubA.png" group-title="Spain",Squirrel Dos (1080p)
+http://45.95.78.232:8001/udp/239.106.84.3:5000
 #EXTINF:-1 tvg-id="STZTelebista.es@SD" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="Spain",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 tvg-id="SX3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png" group-title="Spain",SX3 (1080p) [Geo-blocked]
@@ -13464,12 +13494,14 @@ https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-id="TeleBilbao.es@SD" tvg-logo="https://i.imgur.com/x2HmBq1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",TeleBilbao (384p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://tbilbo.dyndns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/500px-Telecinco.svg.png" group-title="Spain",Telecinco (1080p)
+http://45.95.78.232:8001/udp/239.106.83.3:5000
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Spain",Teledeporte (1080p)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-id="Teleganes.es@SD" tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Spain",Teleganés (720p)
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png" group-title="Spain",Telemadrid (720p)
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png" group-title="Spain",Telemadrid (1080p)
+http://45.95.78.232:8001/udp/239.106.90.3:5000
 #EXTINF:-1 tvg-id="TelemadridINT.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/960px-TeleMadrid_INT_Logo.jpg" group-title="Spain",Telemadrid Internacional (720p)
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="Telemotril.es@SD" tvg-logo="https://i.imgur.com/4nspLHb.png" group-title="Spain",Telemotril (720p) [Not 24/7]
@@ -13485,10 +13517,12 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="TelevisionConsciente.es@SD" tvg-logo="https://i.imgur.com/6QVHKPw.png" group-title="Spain",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-id="TEN.es@SD" tvg-logo="https://i.imgur.com/ZpaeqyN.png" group-title="Spain",TEN (1080p)
+http://45.95.78.232:8001/udp/239.106.85.2:5000
 #EXTINF:-1 tvg-id="ThePetCollective.us@Spain" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Spain",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Spain",Trece TV (576p)
-https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Spain",Trece (1080p)
+http://45.95.78.232:8001/udp/239.106.84.7:5000
 #EXTINF:-1 tvg-id="TV3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/960px-TV3.svg.png" group-title="Spain",TV3 (1080p) [Geo-blocked]
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="Spain",TV3CAT (1080p) [Geo-blocked]
@@ -13547,6 +13581,8 @@ https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VentdelnordTV.es@SD" tvg-logo="https://i.imgur.com/6sUkVOd.png" group-title="Spain",Ventdelnord TV (404p)
 http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:-1 tvg-id="Veo7.es@SD" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Spain",Veo7 (1080p)
+http://45.95.78.232:8001/udp/239.106.91.3:5000
 #EXTINF:-1 tvg-id="Vivamovil.es@SD" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="Spain",Vivamóvil (720p)
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="VOTV.es@SD" tvg-logo="https://i.imgur.com/1g2Z64L.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Spain",VOTV (1080p)
@@ -13756,7 +13792,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Switzerland",RTL9 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="RTLCrime.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Switzerland",RTL Crime (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="Switzerland",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch@SD" tvg-logo="https://i.imgur.com/OP5lHv9.png" group-title="Switzerland",RTS 1 (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
@@ -14547,28 +14583,18 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 https://liveovh009.cda.pl/2mwlMj_cpciQwY9XKkuwooIeujskIie828C5uElA/1760154894/24372638/enc024/espresotvraw/espresotvraw.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" tvg-logo="" group-title="Ukraine",EWTN Ukraine (1080p)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FirstBusiness.ua@SD" tvg-logo="https://i.imgur.com/0wotE9n.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" group-title="Ukraine",First Business (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-https://pershij-dlovij.cdn-01.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="Ukraine",Freedom (FREEДOM) (UATV) (720p)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="GIT.ua@SD" tvg-logo="https://i.imgur.com/b5K5Uwh.png" group-title="Ukraine",GIT (720p)
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-id="IUAtv.ua@SD" tvg-logo="https://i.imgur.com/t1OABVZ.png" group-title="Ukraine",I-UA.tv (1080p)
 https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
-#EXTINF:-1 tvg-id="Inter.ua@SD" tvg-logo="https://i.imgur.com/FHRagMx.png" group-title="Ukraine",IHTEP (576p)
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-id="IT3.ua@SD" tvg-logo="https://i.imgur.com/8rNbbY7.png" group-title="Ukraine",IT-3 (720p)
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.ua@SD" tvg-logo="https://i.imgur.com/NZdT9yJ.png" group-title="Ukraine",ITV (480p)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="IzmailTV.ua@SD" tvg-logo="https://i.imgur.com/CxsUpGz.png" group-title="Ukraine",Izmail TV (384p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="K2.ua@SD" tvg-logo="https://i.imgur.com/NMhydr5.png" group-title="Ukraine",K2 [Geo-blocked]
-http://212.28.87.173:8000/play/a10y/index.m3u8
-#EXTINF:-1 tvg-id="TVDom.ua@SD" tvg-logo="https://i.imgur.com/HJCXEvY.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" group-title="Ukraine",Kanal Dom (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-https://kanaldom.cdn-05.cosmonova.net.ua/hls/kanaldom_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua@SD" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Ukraine",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="MistoPlus.ua@SD" tvg-logo="https://i.imgur.com/NHjg1Jm.png" group-title="Ukraine",Micto (360p)
@@ -14620,8 +14646,6 @@ http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-id="IRT.ua@SD" tvg-logo="https://i.imgur.com/tDTUIRm.png" group-title="Ukraine",ИРТ (Днепр) (576p) [Not 24/7]
 http://91.193.128.233:1935/live/irt.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="K1.ua@SD" tvg-logo="https://i.imgur.com/uuRGpEn.png" group-title="Ukraine",К1 (576p)
-http://edge3.iptv.macc.com.ua/life/k1.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="Ukraine",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="LanetTV.ua@SD" tvg-logo="https://i.imgur.com/Jdy4SoG.png" group-title="Ukraine",Ланет.TV (486p)
@@ -14638,8 +14662,6 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="NTKTV.ua@SD" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Ukraine",НТК ТВ (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 tvg-id="NTN.ua@SD" tvg-logo="https://i.imgur.com/AmyCNJv.png" group-title="Ukraine",НТН (576p)
-https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-id="NTS.ru@SD" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Ukraine",НТС (Севастополь) (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="Ukraine",Общественное Независимое Телевидение (576p)
@@ -14657,8 +14679,6 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 tvg-id="PravdaTUT.ua@SD" tvg-logo="https://i.imgur.com/gvgFoFB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" group-title="Ukraine",ПравдаТУТ (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
-#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" tvg-logo="https://i.imgur.com/VnAgQA4.png" group-title="Ukraine",Сварожичи (720p)
-http://80.91.177.102:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Simferopol24.ru@SD" tvg-logo="https://i.imgur.com/S2QJ3bc.png" group-title="Ukraine",Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua@SD" tvg-logo="https://i.imgur.com/S1h1t0G.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0" group-title="Ukraine",Сфера-ТВ (720p)
@@ -15302,8 +15322,6 @@ https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="United States",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 tvg-id="90210.us@SD" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="United States",90210
-https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="United States",A&E East (720p) [Not 24/7]
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="KIIOLD4.us@SD" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="United States",AABC TV (480p)
@@ -15553,7 +15571,7 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f1
 #EXTINF:-1 tvg-id="ATXN3.us@SD" tvg-logo="https://i.imgur.com/tSMtDlz.png" group-title="United States",ATXN3 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.us@SD" tvg-logo="https://i.imgur.com/4SPOVN7.png" group-title="United States",Auction Hunters
-https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-id="AuroraTV.us@SD" tvg-logo="https://i.imgur.com/g8Q1ASR.png" group-title="United States",AuroraTV (Aurora CO) (720p)
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="United States",Autentic History (1080p)
@@ -15600,8 +15618,6 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD" tvg-logo="https://i.imgur.com/HCQDvEe.png" group-title="United States",Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="AlanBeckerTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="United States",Becker
-https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="United States",beIN SPORTS Xtra (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
@@ -16638,8 +16654,6 @@ https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="LoveHipHop.us@SD" tvg-logo="https://i.imgur.com/rhGyebf.png" group-title="United States",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
-#EXTINF:-1 tvg-id="TheLoveBoat.us@SD" tvg-logo="https://i.imgur.com/7ad6NQ8.png" group-title="United States",Love Boat
-https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="United States",Love Nature en Espanol [Geo-blocked]
 https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es@EN" tvg-logo="https://i.imgur.com/RBcD49X.png" group-title="United States",Love The Planet (1080p) [Geo-blocked]
@@ -16705,7 +16719,7 @@ https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MCTV.us@SD" tvg-logo="https://i.imgur.com/VXbHin6.png" group-title="United States",Millbrae Community Television (720p)
 https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-logo="https://i.imgur.com/QS5lg0t.png" group-title="United States",Mission Impossible
-https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
 #EXTINF:-1 tvg-id="MissionTV.us@SD" tvg-logo="https://i.imgur.com/Hb38BNo.png" group-title="United States",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="United States",Misterios sin resolver
@@ -17084,8 +17098,6 @@ https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMilitary.us@SD" tvg-logo="https://i.imgur.com/O8VXZB4.png" group-title="United States",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us@SD" tvg-logo="https://i.imgur.com/NPavpts.png" group-title="United States",Pluto TV MTV Classic
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelas.us@SD" tvg-logo="https://i.imgur.com/R44LypS.png" group-title="United States",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="United States",Pluto TV Paranormal
@@ -17442,6 +17454,8 @@ https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="WYPLTV18.us@SD" tvg-logo="https://i.imgur.com/irwOxj4.png" group-title="United States",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="TheLoveBoat.us@SD" tvg-logo="https://i.imgur.com/7ad6NQ8.png" group-title="United States",The Love Boat
+https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD" tvg-logo="https://iili.io/JGqD21e.png" group-title="United States",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us@US" tvg-logo="https://i.imgur.com/GLXg9ge.png" group-title="United States",The New Detectives
@@ -18592,8 +18606,8 @@ https://hls.erfanhalgheh.live/hls/stream.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="International",ESPN8 The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="International",Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="International",Esport3 (1080p)
+http://45.95.78.232:8001/udp/239.106.85.6:5000
 #EXTINF:-1 tvg-id="EstrellaGames.us@SD" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="International",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="International",Estrella News (1080p)
@@ -18676,8 +18690,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="FTVTaiwan.tw@SD" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="International",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="FUELTV.at@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="International",FUEL TV (1080p)
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FX.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="International",FX (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="International",FX Latin America (1080p)
@@ -19070,6 +19082,9 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="International",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" http-referrer="https://retroplustv.com/" group-title="International",Retro Plus 2 (720p)
+#EXTVLCOPT:http-referrer=https://retroplustv.com/
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="International",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="International",RT Arabic (1080p) [Geo-blocked]
@@ -19090,7 +19105,7 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="International",RTL9 [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="RTLCrime.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="International",RTL Crime (1080p)
+#EXTINF:-1 tvg-id="RTLCrime.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png" group-title="International",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="International",RTL Super [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
@@ -19545,8 +19560,6 @@ https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/p
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",90210
-https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A Feiticeira
@@ -19655,10 +19668,6 @@ https://jmp2.uk/plu-6577224bb3801200084865d6.m3u8
 https://d3kyucsyhwa3ht.cloudfront.net/All_Out_Reality.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alle hassen Chris
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alle hassen Chris
-https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alle hassen Chris
-https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Allociné
 https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alone By History (720p)
@@ -19746,8 +19755,6 @@ https://jmp2.uk/plu-617807a1a3a6160007f615e4.m3u8
 https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anger Management
 https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anger Management
-https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ANIME x HIDIVE
@@ -19785,17 +19792,11 @@ https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Assassination Classroom
 https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Assassination Classroom
-https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Assassination Classroom
-https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Assombrações
 https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Atmadarshan Tv (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/atmadarshan-tv/index.m3u8?ads.vf=7uUA7ZPQxdm
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
-https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
 https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auction Hunters
@@ -19806,12 +19807,6 @@ https://jmp2.uk/plu-62da7159ca8f220008032730.m3u8
 https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auf Achse
 https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auf Achse
-https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auf Achse
-https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auto Motor Sport
-https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Auto Motor Sport
 https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Auto TV (1080p)
@@ -19825,15 +19820,11 @@ https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Autostop per il cielo
 https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar
-https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar
 https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar
 https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
-#EXTINF:-1 tvg-id="Avatar.us@SD" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Undefined",Avatar
-https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar+
 https://jmp2.uk/plu-6266916480ecc800074d6322.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar+
@@ -19845,10 +19836,6 @@ https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",AWE Plus (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Awkward
-https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Awkward
-https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Awkward
@@ -19930,10 +19917,6 @@ https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
 https://jmp2.uk/plu-62bdae69a47b6c00076af298.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Baywatch
 https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Baywatch
-https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
-#EXTINF:-1 tvg-id="Baywatch.us@Austria" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Undefined",Baywatch
-https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Comedy (720p)
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Drama (1080p) [Geo-blocked]
@@ -19960,10 +19943,6 @@ https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
 https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Top Gear Italy (1080p)
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Travel
-https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
-#EXTINF:-1 tvg-id="BBCTravel.us@Austria" tvg-logo="https://i.imgur.com/QiuYWs9.png" group-title="Undefined",BBC Travel
-https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beach Bonfire Vibes (1080p)
 https://d104o6d3ybbtr3.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beach Day
@@ -19980,8 +19959,6 @@ https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beavis and Butt-Head
 https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Becker
-https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Becker
 https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Becker
@@ -20069,10 +20046,6 @@ https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8
 https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET x Tyler Perry Drama
 https://jmp2.uk/plu-666b38a5efa2a10008b15b3a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beverly Hills 90210
-https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-#EXTINF:-1 tvg-id="BeverlyHills90210.us@Austria" tvg-logo="https://i.imgur.com/td3d1F8.png" group-title="Undefined",Beverly Hills 90210
-https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beyblade
 https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beyblade
@@ -20385,10 +20358,6 @@ https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CC Pluto TV
-https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-#EXTINF:-1 tvg-id="CCPlutoTV.us@Austria" tvg-logo="https://i.imgur.com/MjC40At.png" group-title="Undefined",CC Pluto TV
-https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Celeb Reality (720p)
 https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NlbGViUmVhbGl0eUlOVExfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Celeb Reality
@@ -20413,10 +20382,6 @@ https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8?ads.vf=KqVbYyU2qD8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Channel Fight (1080p)
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chaos City
-https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1 tvg-id="ChaosCity.us@Austria" tvg-logo="https://i.imgur.com/1UZNdRH.png" group-title="Undefined",Chaos City
-https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chaos on Cam
 https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chappelle's Show
@@ -20448,15 +20413,11 @@ https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers
-https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers
 https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers
 https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
-#EXTINF:-1 tvg-id="Cheers.us@Austria" tvg-logo="https://i.imgur.com/xIlF92v.png" group-title="Undefined",Cheers
-https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chef vs Chef by Food Network
@@ -20601,11 +20562,7 @@ https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central Roast
 https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central South Park
-https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Austria" tvg-logo="https://i.imgur.com/7GKO6Fp.png" group-title="Undefined",Comedy Central South Park
-https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Comedy Classics (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8?ads.vf=ihIlkNrNKSy
@@ -20825,16 +20782,8 @@ https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Darts x Pluto TV
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Darts x Pluto TV
-https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Darts x Pluto TV
-https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Handball x Pluto TV
 https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Heldinnen x Pluto TV
-https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Heldinnen x Pluto TV
-https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dazn Ringside (1080p)
@@ -20883,10 +20832,6 @@ https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Der Denver-Clan
 https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Der Denver-Clan
-https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Der Denver-Clan
-https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Desafío Super Humanos
 https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Designated Survivor [Geo-blocked]
@@ -20923,10 +20868,6 @@ https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
 https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Die Sieben-Millionen-Dollar-Frau
 https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Die Thundermans
-https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Die Thundermans
-https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Die Thundermans
 https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Diff’rent Strokes Arnold
@@ -21035,10 +20976,6 @@ https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drake & Josh
-https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drake & Josh
-https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive + Speed (1080p)
 https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive In Movie Channel
@@ -21101,10 +21038,6 @@ https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 https://amg00654-itv-amg00654c18-samsung-nz-4373.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Eggheads (1080p)
 https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ein Engel auf Erden
-https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ein Engel auf Erden
-https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ein Engel auf Erden
 https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Eine himmlische Familie
@@ -21192,8 +21125,6 @@ https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews
-https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
@@ -21235,10 +21166,6 @@ https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",F.B.I. Files
 https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",F.B.I. Files
-https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",F.B.I. Files
-https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FailArmy
 https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FailArmy
@@ -21257,10 +21184,6 @@ https://jmp2.uk/plu-61781077929e930007c194ee.m3u8
 https://jmp2.uk/plu-6178037c35922000072a2ff5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Faites entrer l'accusé
 https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Familie Dr. Kleist
-https://jmp2.uk/plu-65819f14b9adc4000813ee39.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Familie Dr. Kleist
-https://jmp2.uk/plu-65819f14b9adc4000813ee39.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Familie Dr. Kleist
 https://jmp2.uk/plu-65819f14b9adc4000813ee39.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Familien fra Bryggen
@@ -21342,10 +21265,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Filmgold
 https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Filmgold
-https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Filmgold
-https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FilmGold Germany (1080p)
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FilmRise Binge Watch France (720p)
@@ -21390,10 +21309,6 @@ https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fluss Monster (1080p)
 https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fluss-Monster
-https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fluss-Monster
-https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fluss-Monster
 https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Flynn Carson et The Outpost
@@ -21450,11 +21365,7 @@ https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frasier
 https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frasier
-https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frasier
 https://jmp2.uk/plu-6400c095498393000878a634.m3u8
-#EXTINF:-1 tvg-id="Frasier.us@Austria" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Undefined",Frasier
-https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frasier VIDAA TEST
 https://jmp2.uk/plu-67d4572a8d8dc3d775aa4428.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frasier: Det bedste med Niles
@@ -21475,6 +21386,8 @@ https://jmp2.uk/plu-65b3d7c80cb1a10008822e85.m3u8
 https://jmp2.uk/plu-65b3d7b7c798e8000852ff0a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Frusna Vägar
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
+#EXTINF:-1 tvg-id="FUELTV.at@SD" tvg-logo="" group-title="Undefined",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",G-eye TV
 https://online.geyetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gaki no Tsukai (English Subs) (720p)
@@ -21512,10 +21425,6 @@ https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
 https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Geordie Shore
 https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Germany Shore
-https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Germany Shore
-https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Germany Shore
 https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ghost (720p)
@@ -21679,10 +21588,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hausmeister Krause
 https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hausmeister Krause
-https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hausmeister Krause
-https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hawaii Five-O
 https://jmp2.uk/plu-68503d3bc692373f0158c43f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Haz Clic!
@@ -21706,8 +21611,6 @@ https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen
 https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen
-https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen
 https://jmp2.uk/plu-61c194ff6f23a7000780073a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen
 https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
@@ -21715,8 +21618,6 @@ https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 https://jmp2.uk/plu-62022f7b9fcc3800076f8c26.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen
 https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8
-#EXTINF:-1 tvg-id="HellsKitchen.us@Austria" tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="Undefined",Hell's Kitchen
-https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen Germany (1080p)
 https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hell's Kitchen Italy (1080p)
@@ -21915,8 +21816,6 @@ https://jmp2.uk/plu-657887d9dfed030008ce8aa8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",I Survived… (720p)
 https://d1ewp56x5c748d.cloudfront.net/v1/aenetworks_i_survived_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iCarly
-https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iCarly
 https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
@@ -21924,12 +21823,8 @@ https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iCarly
 https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-#EXTINF:-1 tvg-id="iCarly.us@Austria" tvg-logo="https://i.imgur.com/R6jWcqz.png" group-title="Undefined",iCarly
-https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iCarly TV
 https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Pilots
-https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Pilots
 https://jmp2.uk/plu-62cd97fb9f8154000727516c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Pilots
@@ -21940,8 +21835,6 @@ https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
 https://jmp2.uk/plu-62cd9fee6187a70007784cdd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Pilots
 https://jmp2.uk/plu-62cdaef300a4b3000739b1bf.m3u8
-#EXTINF:-1 tvg-id="IcePilots.us@Austria" tvg-logo="https://i.imgur.com/F8GBYq3.png" group-title="Undefined",Ice Pilots
-https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Pilots VIDAA TEST
 https://jmp2.uk/plu-67d4586be979b84e78f064d0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ice Road Truckers (1080p)
@@ -22154,10 +22047,6 @@ https://jmp2.uk/plu-61780ce4c215ad0007a66ab2.m3u8
 https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Just.fishing
 https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Just.fishing
-https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Just.fishing
-https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Juste pour Rire GAGS
 https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K Drama by CJ ENM (1080p)
@@ -22216,26 +22105,10 @@ https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi
 https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi
-https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi
-https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Alte
-https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Alte
-https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Alte
 https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Kommissar
 https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Kommissar
-https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Der Kommissar
-https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kultkrimi: Derrick
-https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kultkrimi: Derrick
-https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Derrick
 https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KultKrimi: Die Rettungsflieger
@@ -22431,8 +22304,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Boat
 https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Boat
-https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Boat
 https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Boat
 https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
@@ -22607,8 +22478,6 @@ https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place
-https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place
 https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place
 https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8
@@ -22616,8 +22485,6 @@ https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8
 https://jmp2.uk/plu-62a0ada2f1bdc5000738e020.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place
 https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Austria" tvg-logo="https://i.imgur.com/hXDj0fV.png" group-title="Undefined",Melrose Place
-https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Melrose Place VIDAA TEST
 https://jmp2.uk/plu-67d4548f798df95b8e5e6d5d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mercury+
@@ -22679,8 +22546,6 @@ https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 https://pb-w5d3w3kisxahy.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mission Impossible
 https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mission Impossible
-https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mission Impossible
@@ -22802,14 +22667,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mountain Men (1080p) [Geo-blocked]
 https://pb-tc97nokxg85ph.akamaized.net/Mountain_Men.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MOVIEDOME
-https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
-#EXTINF:-1 tvg-id="Moviedome.us@Austria" tvg-logo="https://i.imgur.com/8c54ycg.png" group-title="Undefined",MOVIEDOME
-https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Moviepilot TV mit Pluto TV
-https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Moviepilot TV mit Pluto TV
-https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@SD" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Undefined",Moviesphere
@@ -22855,11 +22712,7 @@ https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Catfish
 https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Catfish TV Show
-https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Catfish TV Show
 https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8
-#EXTINF:-1 tvg-id="MTVCatfishTVShow.us@Austria" tvg-logo="https://i.imgur.com/tpLRnP2.png" group-title="Undefined",MTV Catfish TV Show
-https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Classic
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Classic
@@ -22911,11 +22764,7 @@ https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Pluto TV
-https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@Austria" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Undefined",MTV Pluto TV
-https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Reality
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Reality
@@ -22937,8 +22786,6 @@ https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Ridiculousness
 https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Ridiculousness
-https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Ridiculousness
 https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Ridiculousness
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
@@ -22946,8 +22793,6 @@ https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Ridiculousness
 https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@Austria" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Undefined",MTV Ridiculousness
-https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Rocks
@@ -22959,8 +22804,6 @@ https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Tattoo a dos
 https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Teen Mom
-https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Teen Mom
 https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Teen Mom
 https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8
@@ -22970,12 +22813,6 @@ https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Teen Mom
 https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.us@Austria" tvg-logo="https://i.imgur.com/6EzdThG.png" group-title="Undefined",MTV Teen Mom
-https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV The Shores
-https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
-#EXTINF:-1 tvg-id="MTVTheShores.us@Austria" tvg-logo="https://i.imgur.com/I2QM1Gd.png" group-title="Undefined",MTV The Shores
-https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Vergüenza ajena
@@ -23019,8 +22856,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsung
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MyZen Wellbeing TV (1080p)
 https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",N24 Doku
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Naija Gold Reels
 https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Nakshatra Digital Tv (1080p)
@@ -23030,11 +22865,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/namma-bangalore/index.m3u8?ads.vf=eSzAQfnJzCG
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Naruto
-https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="Naruto.us@Austria" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Undefined",Naruto
-https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Naruto Germany (1080p)
 https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Naruto Shippuden
@@ -23139,10 +22970,6 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nick Pluto TV
-https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-#EXTINF:-1 tvg-id="NickPlutoTV.us@Austria" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Undefined",Nick Pluto TV
-https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Classics
@@ -23372,10 +23199,6 @@ https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
 https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pensacola – Flügel aus Stahl
 https://jmp2.uk/plu-655ca4b94261ca00080b38d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pensacola – Flügel aus Stahl
-https://jmp2.uk/plu-655ca4b94261ca00080b38d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pensacola Flügel aus Stahl
-https://jmp2.uk/plu-655ca4b94261ca00080b38d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Perform (1080p)
@@ -23384,8 +23207,6 @@ https://4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV
 https://d3shpb2wdlx9qj.cloudfront.net/v1/aenetworks_perform_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Perry Mason
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Perry Mason
-https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PFL (720p)
 https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PFL MMA
@@ -23483,24 +23304,16 @@ https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Animals
-https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us@Austria" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="Undefined",Pluto TV Animals
-https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
 https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
-https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
 https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@Austria" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Undefined",Pluto TV Anime
-https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime: Fantasy
@@ -23617,10 +23430,6 @@ https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
 https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Criaturas Malditas
 https://jmp2.uk/plu-6838a98df9bd067a38d1b8f7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Crime
-https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCrime.us@Austria" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Undefined",Pluto TV Crime
-https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Crime Drama
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Crime+
@@ -23673,10 +23482,6 @@ https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Europäische Krimis
 https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Explore
-https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVExplore.us@Austria" tvg-logo="https://i.imgur.com/Fhrcxje.png" group-title="Undefined",Pluto TV Explore
-https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Family Movie Club
 https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Fantasy & Horror
@@ -23719,10 +23524,6 @@ https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
 https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Fishing
 https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFood.us@Austria" tvg-logo="https://i.imgur.com/HTLo1GG.png" group-title="Undefined",Pluto TV Food
-https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Forever Kids
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV French Collection
@@ -23747,10 +23548,6 @@ https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV heiße Nächte
 https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV heiße Nächte
-https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV heiße Nächte
-https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Heiße Nächte Retro
 https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Hibernation Movies
@@ -23765,14 +23562,8 @@ https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Historische Serien
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV History
-https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@Austria" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Undefined",Pluto TV History
-https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
-https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
@@ -23785,8 +23576,6 @@ https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
 https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@Austria" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Undefined",Pluto TV Horror
-https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror-Serien
 https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Humor
@@ -23847,10 +23636,6 @@ https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Klassiske tegnefilmer
 https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Knallhart
-https://jmp2.uk/plu-65004605110545000842035d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Knallhart
-https://jmp2.uk/plu-65004605110545000842035d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Komedi
 https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Komedie
@@ -23859,10 +23644,6 @@ https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
 https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kultfilm
 https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kultfilme
-https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKultfilme.us@Austria" tvg-logo="https://i.imgur.com/RJhxl8t.png" group-title="Undefined",Pluto TV Kultfilme
-https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kultfilmer
 https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kultfilmer
@@ -23879,24 +23660,12 @@ https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Motor+
 https://jmp2.uk/stvp-GBAI5000001A?.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Movies
-https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMovies.us@Austria" tvg-logo="https://i.imgur.com/XzAbXAn.png" group-title="Undefined",Pluto TV Movies
-https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Mystery
-https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Mystery
-https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMystery.us@Austria" tvg-logo="https://i.imgur.com/oXpLEXI.png" group-title="Undefined",Pluto TV Mystery
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Natura
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Naturaleza
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNature.us@Austria" tvg-logo="https://i.imgur.com/PtWUmss.png" group-title="Undefined",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Negócio Fechado
 https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Netmovies
@@ -23926,8 +23695,6 @@ https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
-https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
 https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
 https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
@@ -23937,8 +23704,6 @@ https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.us@Austria" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="Undefined",Pluto TV Paranormal
-https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Paranormal+
 https://jmp2.uk/stvp-GBBA33000362J?.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Peleas
@@ -23951,10 +23716,6 @@ https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 https://jmp2.uk/plu-5ffebbeabd18520007b37709.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Policial
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Polizeiserien
-https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Polizeiserien
-https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Popkultur
@@ -24006,8 +23767,6 @@ https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi
 https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
@@ -24025,24 +23784,14 @@ https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
 https://jmp2.uk/plu-64b676a4798def00088e5150.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@Austria" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Undefined",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Science
 https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Science
-https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.us@Austria" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Undefined",Pluto TV Science
-https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie
-https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie
 https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSerie.us@Austria" tvg-logo="https://i.imgur.com/u3c80e8.png" group-title="Undefined",Pluto TV Serie
-https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie Sci-Fi
@@ -24050,11 +23799,7 @@ https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie+
 https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie+
-https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Serie+
 https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriePlus.us@Austria" tvg-logo="https://i.imgur.com/bqedNmK.png" group-title="Undefined",Pluto TV Serie+
-https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Series
 https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Series
@@ -24097,14 +23842,6 @@ https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Shore
 https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms
-https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSitcoms.us@Austria" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Undefined",Pluto TV Sitcoms
-https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms+
-https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms+
-https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sitcoms+
 https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Snooker 900
@@ -24126,11 +23863,7 @@ https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Austria" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Undefined",Pluto TV Space
-https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Sport
@@ -24144,13 +23877,9 @@ https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Star Trek
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Star Trek
-https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Star Trek
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Star Trek
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-#EXTINF:-1 tvg-id="StarTrek.us@Austria" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="Undefined",Pluto TV Star Trek
-https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Storia
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Super Kids
@@ -24188,8 +23917,6 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
 https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
 https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8
@@ -24199,8 +23926,6 @@ https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV True Crime
 https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@Austria" tvg-logo="https://i.imgur.com/lNfaxiv.png" group-title="Undefined",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Ungdomsserier
@@ -24228,13 +23953,9 @@ https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Western
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Western
-https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us@Austria" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Undefined",Pluto TV Western
-https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Wild West
@@ -24444,18 +24165,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h227/index.m3u8
 https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rauchende Colts
 https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rauchende Colts
-https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rauchende Colts
-https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rawhide
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rawhide Tausend Meilen Staub
-https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rawhide Tausend Meilen Staub
-https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rawhide Tausend Meilen Staub
 https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RCM (1080p)
@@ -24500,10 +24213,6 @@ https://jmp2.uk/plu-660d71e2aec9680008f8f18a.m3u8
 https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Red Bull TV Germany (1080p)
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Red Shoe Diaries
-https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Red Shoe Diaries
-https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Red Shoe Diaries
 https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Reelz Famous & Infamous
@@ -24576,10 +24285,6 @@ https://jmp2.uk/plu-692ec3f475169f09b5c0a8b3.m3u8
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RoboCop
 https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RoboCop
-https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RoboCop
-https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Robot Wars by MECH+
 https://jmp2.uk/plu-677d672ef090ab00085b8e9b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rock Channel
@@ -24636,10 +24341,6 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rules of Engagement
 https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rules of Engagement
-https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rules of Engagement
-https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Runtime
@@ -24658,10 +24359,6 @@ https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina Total verhext!
-https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina Total verhext!
-https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina Total verhext!
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Saga Music (1080p)
@@ -24872,21 +24569,13 @@ https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
 https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
-https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
-https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
 https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
 https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Butters Collection
 https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Cartman Collection
-https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Cartman Collection
-https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Cartman Collection
 https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Cartman Collection
@@ -24924,11 +24613,7 @@ https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Into the Stars
 https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
 https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
-https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
 https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
@@ -24938,11 +24623,7 @@ https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kenny Collection
 https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kyle Collection
-https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kyle Collection
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kyle Collection
-https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kyle Collection
 https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Kyle Collection
@@ -24953,16 +24634,8 @@ https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
 https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Original Version
-https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Original Version
-https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Stan Collection
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Stan Collection
 https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Stan Collection
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Stan Collection
 https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park: Stan Collection
@@ -24979,20 +24652,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18
 https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Speed Sport 1 (1080p)
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV
-https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV
-https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV Konflikte
 https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV Konflikte
-https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SPIEGEL TV Konflikte
-https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SpongeBob Schwammkopf
-https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
-#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.us@Austria" tvg-logo="https://i.imgur.com/NIsgNvI.png" group-title="Undefined",SpongeBob Schwammkopf
-https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SpongeBob SquarePants
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sport Fishing TV
@@ -25023,10 +24684,6 @@ https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek Movies
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek: Deep Space Nine
-https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek: Deep Space Nine
-https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star Trek: Deep Space Nine
@@ -25189,10 +24846,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tadka
 https://mumt03.tangotv.in/TADKA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Takeshi's Castle
-https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="TakeshisCastle.us@Austria" tvg-logo="https://i.imgur.com/KuK72kL.png" group-title="Undefined",Takeshi's Castle
-https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tandem
 https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Tara Tv (360p)
@@ -25224,10 +24877,6 @@ https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Täterjagd
 https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Täterjagd
-https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Täterjagd
-https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Taxi
 https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Taxi
@@ -25256,10 +24905,6 @@ https://d8b6mh9us4zvx.cloudfront.net/TEAM_USA_TV.m3u8
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teen Mom
 https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teen Nick
-https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teen Nick
-https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Undefined",Teleamazonas (1080p)
@@ -25284,10 +24929,6 @@ https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
-https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
-https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.ph@HD" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Undefined",TeleRadyo (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TeleRegione 118 (576p)
@@ -25310,10 +24951,6 @@ https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tensions TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Terra Mater WILD
-https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Terra Mater WILD
-https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Test My Ride
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Andy Griffith Show
@@ -25556,8 +25193,6 @@ https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Top Gear
 https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Top Gear
-https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Top Gear
 https://jmp2.uk/plu-620234d766314700075cac86.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Top Gear
 https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
@@ -25611,15 +25246,11 @@ https://jmp2.uk/plu-62e93b8eb8e02600071f8b1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
 https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
 https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
 https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.us@Austria" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Undefined",Totally Turtles
-https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tough Jobs
@@ -25639,10 +25270,6 @@ https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Transformers
 https://jmp2.uk/plu-63d8ed19a9957100086f4d33.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Transformers TV
-https://jmp2.uk/plu-643683519b32b400094e0a40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Transformers TV
-https://jmp2.uk/plu-643683519b32b400094e0a40.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Transformers TV
 https://jmp2.uk/plu-643683519b32b400094e0a40.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Transformers TV
@@ -25774,14 +25401,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8?ads.vf=U2bdq2GJGni
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unentdeckt – Mörder unter uns
 https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unentdeckt – Mörder unter uns
-https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unentdeckt Mörder unter uns
-https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unforgettable
-https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unforgettable
-https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unforgettable
 https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unga Mammor
@@ -25881,10 +25500,6 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Victorious
-https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
-#EXTINF:-1 tvg-id="Victorious.us@Austria" tvg-logo="https://i.imgur.com/7fzlbi2.png" group-title="Undefined",Victorious
-https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Victory+ (1080p)
 https://d2otd2h2i5t24h.cloudfront.net/Victory_National.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vidas Extremas
@@ -26012,11 +25627,7 @@ https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna (1080p)
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
-https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
 https://jmp2.uk/plu-6728c561daad7f000881ac83.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
-https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
 https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
@@ -26050,15 +25661,7 @@ https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Willkommen bei den Louds
 https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Willkommen bei den Louds
-https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Willkommen bei den Louds
-https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wings – Die Überflieger
-https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wings – Die Überflieger
-https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wings Die Überflieger
 https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Winter Vibes (1080p)
 https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
@@ -26095,8 +25698,6 @@ https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World Poker Tour
 https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World Poker Tour
-https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World Poker Tour
 https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World Poker Tour
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
@@ -26106,8 +25707,6 @@ https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 https://jmp2.uk/plu-61781254560f2e00071b78ce.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",World Poker Tour
 https://jmp2.uk/plu-617805a67267650007573ffd.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Austria" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Undefined",World Poker Tour
-https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",World Punjabi Tv (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/world-punjabi-tv/index.m3u8?ads.vf=9V4G7iab_c0
@@ -26125,10 +25724,6 @@ https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8
 https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",X-Factor: Das Unfassbare
-https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",X-Factor: Das Unfassbare
-https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",X-Factor: Das Unfassbare
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Xena – Die Kriegerprinzessin
@@ -26180,8 +25775,6 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yu-Gi-Oh!
 https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yu-Gi-Oh!
-https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yu-Gi-Oh!
 https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
@@ -26197,10 +25790,6 @@ https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zoey 101
-https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zoey 101
-https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zoey 101
 https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zona de Acción
