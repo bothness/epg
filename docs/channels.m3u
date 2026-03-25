@@ -409,7 +409,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="More4.uk@HD" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="United Kingdom",More4 HD [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-#EXTINF:-1 tvg-id="MostHaunted.us@UK" tvg-logo="https://i.imgur.com/hTDvXxZ.png" group-title="United Kingdom",Most Haunted
+#EXTINF:-1 tvg-id="MostHaunted.us@UK" tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" group-title="United Kingdom",Most Haunted
 https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="United Kingdom",MovieSphere UK (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -483,7 +483,7 @@ https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistory.us@UK" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="United Kingdom",Pluto TV History
 https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@UK" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="United Kingdom",Pluto TV Horror
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@UK" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="United Kingdom",Pluto TV Horror
 https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us@UK" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="United Kingdom",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
