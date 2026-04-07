@@ -19,13 +19,16 @@
   <channel site="mytelly.co.uk" site_id="18/bbc-one-west" lang="en" xmltv_id="BBCOne.uk@West">BBC One West</channel>
   <channel site="mytelly.co.uk" site_id="19/bbc-two-northern-ireland" lang="en" xmltv_id="BBCTwo.uk@NorthernIreland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" site_id="21/bbc-two-wales" lang="en" xmltv_id="BBCTwo.uk@Wales">BBC Two Wales</channel>
+  <channel site="mytelly.co.uk" site_id="49/itv1-london" lang="en" xmltv_id="ITV1.uk@London">ITV1 London</channel>
   <channel site="mytelly.co.uk" site_id="52/bbc-two-england" lang="en" xmltv_id="BBCTwo.uk@England">BBC Two England</channel>
   <channel site="mytelly.co.uk" site_id="53/channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="mytelly.co.uk" site_id="54/channel-5" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
   <channel site="mytelly.co.uk" site_id="56/bbc-parliament" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
+  <channel site="mytelly.co.uk" site_id="220/film4" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="451/itv2" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
+  <channel site="mytelly.co.uk" site_id="605/e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="mytelly.co.uk" site_id="645/s4c" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="mytelly.co.uk" site_id="713/bbc-one-london" lang="en" xmltv_id="BBCOne.uk@London">BBC One London</channel>
   <channel site="mytelly.co.uk" site_id="733/cbbc" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
@@ -33,6 +36,7 @@
   <channel site="mytelly.co.uk" site_id="742/bbc-four" lang="en" xmltv_id="BBCFour.uk@UK">BBC Four</channel>
   <channel site="mytelly.co.uk" site_id="935/bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
   <channel site="mytelly.co.uk" site_id="1065/itv3" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
+  <channel site="mytelly.co.uk" site_id="1172/sky-mix" lang="en" xmltv_id="SkyMix.uk@SD">Sky Mix</channel>
   <channel site="mytelly.co.uk" site_id="1174/itv4" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
   <channel site="mytelly.co.uk" site_id="1288/together-tv" lang="en" xmltv_id="TogetherTV.uk@SD">Together TV</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
@@ -90,6 +94,8 @@
   <channel site="sky.com" site_id="1249" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
   <channel site="sky.com" site_id="1288" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop+1</channel>
   <channel site="sky.com" site_id="1311" lang="en" xmltv_id="Thats70s.uk@SD">That's TV 2</channel>
+  <channel site="sky.com" site_id="1627" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
+  <channel site="sky.com" site_id="1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="sky.com" site_id="1800" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
   <channel site="sky.com" site_id="1872" lang="en" xmltv_id="TogetherTV.uk@SD">Together</channel>
   <channel site="sky.com" site_id="2075" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
