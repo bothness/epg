@@ -51,6 +51,7 @@
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
   <channel site="mytelly.co.uk" site_id="1780/more4-hd" lang="en" xmltv_id="More4.uk@HD">More4 HD</channel>
   <channel site="mytelly.co.uk" site_id="1782/bbc-two-hd" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
+  <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
   <channel site="mytelly.co.uk" site_id="1813/sony-max" lang="en" xmltv_id="SonyMax.uk@SD">Sony MAX</channel>
   <channel site="mytelly.co.uk" site_id="1852/bbc-three-hd" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three HD</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
@@ -137,6 +138,7 @@
   <channel site="sky.com" site_id="5426" lang="en" xmltv_id="TVOne.uk@SD">TV One</channel>
   <channel site="sky.com" site_id="3632" lang="en" xmltv_id="TVWarehouse.uk@SD">TV Warehouse</channel>
   <channel site="sky.com" site_id="2303" lang="en" xmltv_id="UAlibi.uk@SD">U&Alibi</channel>
+  <channel site="sky.com" site_id="3608" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
   <channel site="sky.com" site_id="2617" lang="en" xmltv_id="UW.uk@SD">U&W</channel>
   <channel site="sky.com" site_id="1016" lang="en" xmltv_id="ZeeTVUK.uk@HD">Zee TV HD</channel>
 </channels>
