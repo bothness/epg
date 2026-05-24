@@ -109,6 +109,7 @@
   <channel site="sky.com" site_id="4044" lang="en" xmltv_id="Film4.uk@HD">Film4 HD</channel>
   <channel site="sky.com" site_id="1627" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="sky.com" site_id="1196" lang="en" xmltv_id="GBNews.uk@SD">GB News HD</channel>
+  <channel site="sky.com" site_id="3105" lang="en" xmltv_id="GODTV.uk@SD">GOD Channel</channel>
   <channel site="sky.com" site_id="3709" lang="en" xmltv_id="GREATmovies.uk@UK">Great! Mystery</channel>
   <channel site="sky.com" site_id="3643" lang="en" xmltv_id="GREATromance.uk@UK">Great! Romance</channel>
   <channel site="sky.com" site_id="4461" lang="en" xmltv_id="IonTV.uk@SD">iON TV</channel>
