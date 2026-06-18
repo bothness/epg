@@ -88,7 +88,6 @@
   <channel site="sky.com" site_id="1135" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
   <channel site="sky.com" site_id="3019" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
-  <channel site="sky.com" site_id="1800" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
   <channel site="sky.com" site_id="3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="sky.com" site_id="1235" lang="en" xmltv_id="DeenTV.uk@SD">Deen TV</channel>
   <channel site="sky.com" site_id="1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
@@ -116,7 +115,6 @@
   <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">SONY MAX</channel>
   <channel site="sky.com" site_id="5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
-  <channel site="sky.com" site_id="1311" lang="en" xmltv_id="Thats70s.uk@SD">That's TV 2</channel>
   <channel site="sky.com" site_id="1017" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
   <channel site="sky.com" site_id="1234" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="sky.com" site_id="1872" lang="en" xmltv_id="TogetherTV.uk@SD">Together</channel>
