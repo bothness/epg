@@ -46,6 +46,7 @@
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
+  <channel site="mytelly.co.uk" site_id="1778/bbc-one-wales-hd" lang="en" xmltv_id="BBCOne.uk@WalesHD">BBC One Wales HD</channel>
   <channel site="mytelly.co.uk" site_id="1782/bbc-two-hd" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
   <channel site="mytelly.co.uk" site_id="1813/sony-max" lang="en" xmltv_id="SonyMax.uk@SD">Sony MAX</channel>
@@ -85,6 +86,7 @@
   <channel site="sky.com" site_id="2081" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One NI HD</channel>
   <channel site="sky.com" site_id="3007" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One NW HD</channel>
   <channel site="sky.com" site_id="2082" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One ScotHD</channel>
+  <channel site="sky.com" site_id="2083" lang="en" xmltv_id="BBCOne.uk@WalesHD">BBC One Wal HD</channel>
   <channel site="sky.com" site_id="3017" lang="en" xmltv_id="BBCOne.uk@YorkshireHD">BBC One Yks HD</channel>
   <channel site="sky.com" site_id="2080" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three HD</channel>
   <channel site="sky.com" site_id="2075" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
