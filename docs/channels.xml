@@ -24,6 +24,7 @@
   <channel site="mytelly.co.uk" site_id="53/channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="mytelly.co.uk" site_id="54/channel-5" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
   <channel site="mytelly.co.uk" site_id="56/bbc-parliament" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
+  <channel site="mytelly.co.uk" site_id="188/nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="220/film4" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
@@ -62,6 +63,7 @@
   <channel site="mytelly.co.uk" site_id="2256/qvc-beauty" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="mytelly.co.uk" site_id="2257/qvc-extra" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="mytelly.co.uk" site_id="2259/qvc-style" lang="en" xmltv_id="QVCStyle.uk@SD">QVC Style</channel>
+  <channel site="mytelly.co.uk" site_id="2313/sky-nature" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
   <channel site="mytelly.co.uk" site_id="2339/gb-news" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="mytelly.co.uk" site_id="2351/thats-tv" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
   <channel site="mytelly.co.uk" site_id="2365/bbc-one-east-midlands-hd" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One East Midlands HD</channel>
@@ -111,6 +113,7 @@
   <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="sky.com" site_id="1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
   <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
+  <channel site="sky.com" site_id="1846" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
   <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="4541" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
@@ -118,6 +121,7 @@
   <channel site="sky.com" site_id="4105" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="sky.com" site_id="3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
+  <channel site="sky.com" site_id="1194" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
   <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">SONY MAX</channel>
   <channel site="sky.com" site_id="5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
