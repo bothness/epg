@@ -20,12 +20,8 @@
   <channel site="mytelly.co.uk" site_id="19/bbc-two-northern-ireland" lang="en" xmltv_id="BBCTwo.uk@NorthernIreland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" site_id="21/bbc-two-wales" lang="en" xmltv_id="BBCTwo.uk@Wales">BBC Two Wales</channel>
   <channel site="mytelly.co.uk" site_id="49/itv1-london" lang="en" xmltv_id="ITV1.uk@London">ITV1 London</channel>
-  <channel site="mytelly.co.uk" site_id="52/bbc-two-england" lang="en" xmltv_id="BBCTwo.uk@England">BBC Two England</channel>
   <channel site="mytelly.co.uk" site_id="53/channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
-  <channel site="mytelly.co.uk" site_id="54/channel-5" lang="en" xmltv_id="Channel5.uk@SD">Channel 5</channel>
   <channel site="mytelly.co.uk" site_id="56/bbc-parliament" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
-  <channel site="mytelly.co.uk" site_id="170/challenge" lang="en" xmltv_id="Challenge.uk@SD">Challenge</channel>
-  <channel site="mytelly.co.uk" site_id="188/nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="220/film4" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
@@ -37,29 +33,20 @@
   <channel site="mytelly.co.uk" site_id="734/cbeebies" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
   <channel site="mytelly.co.uk" site_id="742/bbc-four" lang="en" xmltv_id="BBCFour.uk@UK">BBC Four</channel>
   <channel site="mytelly.co.uk" site_id="935/bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
-  <channel site="mytelly.co.uk" site_id="1084/really" lang="en" xmltv_id="Really.uk@SD">Really</channel>
-  <channel site="mytelly.co.uk" site_id="1167/more4" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="mytelly.co.uk" site_id="1172/sky-mix" lang="en" xmltv_id="SkyMix.uk@SD">Sky Mix</channel>
   <channel site="mytelly.co.uk" site_id="1288/together-tv" lang="en" xmltv_id="TogetherTV.uk@SD">Together TV</channel>
-  <channel site="mytelly.co.uk" site_id="1289/5star" lang="en" xmltv_id="5STAR.uk@SD">5STAR</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
-  <channel site="mytelly.co.uk" site_id="1431/great-action" lang="en" xmltv_id="GREATaction.uk@SD">GREAT! action</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
-  <channel site="mytelly.co.uk" site_id="1548/great-tv" lang="en" xmltv_id="GREATtv.uk@SD">GREAT! tv</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
   <channel site="mytelly.co.uk" site_id="1580/channel-5-hd" lang="en" xmltv_id="Channel5.uk@HD">Channel 5 HD</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
-  <channel site="mytelly.co.uk" site_id="1684/4seven" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
-  <channel site="mytelly.co.uk" site_id="1778/bbc-one-wales-hd" lang="en" xmltv_id="BBCOne.uk@WalesHD">BBC One Wales HD</channel>
   <channel site="mytelly.co.uk" site_id="1782/bbc-two-hd" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
   <channel site="mytelly.co.uk" site_id="1813/sony-max" lang="en" xmltv_id="SonyMax.uk@SD">Sony MAX</channel>
-  <channel site="mytelly.co.uk" site_id="1852/bbc-three-hd" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three HD</channel>
-  <channel site="mytelly.co.uk" site_id="1859/5select" lang="en" xmltv_id="5SELECT.uk@SD">5SELECT</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="mytelly.co.uk" site_id="1946/talking-pictures-tv" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">Talking Pictures TV</channel>
@@ -71,7 +58,6 @@
   <channel site="mytelly.co.uk" site_id="2256/qvc-beauty" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="mytelly.co.uk" site_id="2257/qvc-extra" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="mytelly.co.uk" site_id="2259/qvc-style" lang="en" xmltv_id="QVCStyle.uk@SD">QVC Style</channel>
-  <channel site="mytelly.co.uk" site_id="2313/sky-nature" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
   <channel site="mytelly.co.uk" site_id="2339/gb-news" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="mytelly.co.uk" site_id="2351/thats-tv" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
   <channel site="mytelly.co.uk" site_id="2365/bbc-one-east-midlands-hd" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One East Midlands HD</channel>
@@ -86,9 +72,6 @@
   <channel site="sat.tv" site_id="1#33#Nour Koddass" lang="en" xmltv_id="NourAlKoddass.lb@SD">Nour Koddass</channel>
   <channel site="sat.tv" site_id="1#33#Nour Mariam TV" lang="en" xmltv_id="NourMariam.lb@SD">Nour Mariam TV</channel>
   <channel site="sat.tv" site_id="1#33#Palestine Today" lang="en" xmltv_id="PalestineToday.ps@SD">Palestine Today</channel>
-  <channel site="sky.com" site_id="3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
-  <channel site="sky.com" site_id="3028" lang="en" xmltv_id="5SELECT.uk@SD">5SELECT</channel>
-  <channel site="sky.com" site_id="3023" lang="en" xmltv_id="5STAR.uk@SD">5STAR</channel>
   <channel site="sky.com" site_id="3255" lang="en" xmltv_id="AajTak.in@SD">AAJ TAK</channel>
   <channel site="sky.com" site_id="5087" lang="en" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="sky.com" site_id="6753" lang="en" xmltv_id="ATNBanglaUK.uk@SD">ATN</channel>
@@ -99,19 +82,11 @@
   <channel site="sky.com" site_id="2081" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One NI HD</channel>
   <channel site="sky.com" site_id="3007" lang="en" xmltv_id="BBCOne.uk@NorthWestHD">BBC One NW HD</channel>
   <channel site="sky.com" site_id="2082" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One ScotHD</channel>
-  <channel site="sky.com" site_id="2083" lang="en" xmltv_id="BBCOne.uk@WalesHD">BBC One Wal HD</channel>
   <channel site="sky.com" site_id="3017" lang="en" xmltv_id="BBCOne.uk@YorkshireHD">BBC One Yks HD</channel>
-  <channel site="sky.com" site_id="2080" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three HD</channel>
   <channel site="sky.com" site_id="2075" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="sky.com" site_id="1135" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
   <channel site="sky.com" site_id="3019" lang="en" xmltv_id="BBCTwo.uk@NorthernIrelandHD">BBC Two NI HD</channel>
   <channel site="sky.com" site_id="1065" lang="en" xmltv_id="Blaze.uk@SD">BLAZE</channel>
-  <channel site="sky.com" site_id="2202" lang="en" xmltv_id="Challenge.uk@SD">Challenge</channel>
-  <channel site="sky.com" site_id="1202" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
-  <channel site="sky.com" site_id="1213" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
-  <channel site="sky.com" site_id="1248" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
-  <channel site="sky.com" site_id="1249" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
-  <channel site="sky.com" site_id="4075" lang="en" xmltv_id="Channel4.uk@UKHD">Channel 4 HD</channel>
   <channel site="sky.com" site_id="4058" lang="en" xmltv_id="Channel5.uk@HD">5 HD</channel>
   <channel site="sky.com" site_id="3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="sky.com" site_id="1235" lang="en" xmltv_id="DeenTV.uk@SD">Deen TV</channel>
@@ -121,28 +96,22 @@
   <channel site="sky.com" site_id="1627" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="sky.com" site_id="1196" lang="en" xmltv_id="GBNews.uk@SD">GB News HD</channel>
   <channel site="sky.com" site_id="3105" lang="en" xmltv_id="GODTV.uk@SD">GOD Channel</channel>
-  <channel site="sky.com" site_id="3708" lang="en" xmltv_id="GREATaction.uk@SD">Great! Action</channel>
   <channel site="sky.com" site_id="3709" lang="en" xmltv_id="GREATmovies.uk@UK">Great! Mystery</channel>
   <channel site="sky.com" site_id="3643" lang="en" xmltv_id="GREATromance.uk@UK">Great! Romance</channel>
-  <channel site="sky.com" site_id="4266" lang="en" xmltv_id="GREATtv.uk@SD">Great! TV</channel>
   <channel site="sky.com" site_id="4461" lang="en" xmltv_id="IonTV.uk@SD">iON TV</channel>
   <channel site="sky.com" site_id="6754" lang="en" xmltv_id="IqraTV.uk@SD">IQRA TV</channel>
   <channel site="sky.com" site_id="3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
   <channel site="sky.com" site_id="5211" lang="en" xmltv_id="IslamChannelUrdu.uk@SD">Islam Ch Urdu</channel>
   <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="sky.com" site_id="1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
-  <channel site="sky.com" site_id="3340" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
-  <channel site="sky.com" site_id="1846" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="sky.com" site_id="3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
   <channel site="sky.com" site_id="3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="4541" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="sky.com" site_id="3682" lang="en" xmltv_id="NOWRock.uk@SD">NOW ROCK</channel>
   <channel site="sky.com" site_id="4105" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="sky.com" site_id="3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
-  <channel site="sky.com" site_id="2325" lang="en" xmltv_id="Really.uk@SD">Really</channel>
   <channel site="sky.com" site_id="5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
-  <channel site="sky.com" site_id="1194" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
   <channel site="sky.com" site_id="2603" lang="en" xmltv_id="SonyMax.uk@SD">SONY MAX</channel>
   <channel site="sky.com" site_id="5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
