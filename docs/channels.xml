@@ -35,12 +35,16 @@
   <channel site="mytelly.co.uk" site_id="935/bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
   <channel site="mytelly.co.uk" site_id="1172/sky-mix" lang="en" xmltv_id="SkyMix.uk@SD">Sky Mix</channel>
   <channel site="mytelly.co.uk" site_id="1288/together-tv" lang="en" xmltv_id="TogetherTV.uk@SD">Together TV</channel>
+  <channel site="mytelly.co.uk" site_id="1292/itv3-1" lang="en" xmltv_id="ITV3.uk@Plus1">ITV3 +1</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
+  <channel site="mytelly.co.uk" site_id="1560/itv1-london-hd" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 London HD</channel>
   <channel site="mytelly.co.uk" site_id="1580/channel-5-hd" lang="en" xmltv_id="Channel5.uk@HD">Channel 5 HD</channel>
+  <channel site="mytelly.co.uk" site_id="1602/itv2-hd" lang="en" xmltv_id="ITV2.uk@HD">ITV2 HD</channel>
+  <channel site="mytelly.co.uk" site_id="1613/itv4-hd" lang="en" xmltv_id="ITV4.uk@HD">ITV4 HD</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
@@ -75,6 +79,7 @@
   <channel site="sky.com" site_id="3255" lang="en" xmltv_id="AajTak.in@SD">AAJ TAK</channel>
   <channel site="sky.com" site_id="5087" lang="en" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="sky.com" site_id="6753" lang="en" xmltv_id="ATNBanglaUK.uk@SD">ATN</channel>
+  <channel site="sky.com" site_id="2085" lang="en" xmltv_id="BBCNews.uk@UKHD">BBC NEWS HD</channel>
   <channel site="sky.com" site_id="3005" lang="en" xmltv_id="BBCOne.uk@EastMidlandsHD">BBC One EMidHD</channel>
   <channel site="sky.com" site_id="3000" lang="en" xmltv_id="BBCOne.uk@LondonHD">BBC One Lon HD</channel>
   <channel site="sky.com" site_id="3009" lang="en" xmltv_id="BBCOne.uk@NorthEastCumbriaHD">BBC One NE HD</channel>
@@ -102,6 +107,22 @@
   <channel site="sky.com" site_id="6754" lang="en" xmltv_id="IqraTV.uk@SD">IQRA TV</channel>
   <channel site="sky.com" site_id="3214" lang="en" xmltv_id="IslamChannel.uk@SD">Islam Channel</channel>
   <channel site="sky.com" site_id="5211" lang="en" xmltv_id="IslamChannelUrdu.uk@SD">Islam Ch Urdu</channel>
+  <channel site="sky.com" site_id="1043" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1044" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1045" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1061" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1062" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1063" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1208" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1209" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1214" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="1219" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="3062" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="6503" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="6504" lang="en" xmltv_id="ITV1.uk@LondonHD">ITV1 HD</channel>
+  <channel site="sky.com" site_id="6532" lang="en" xmltv_id="ITV2.uk@HD">ITV2 HD</channel>
+  <channel site="sky.com" site_id="6261" lang="en" xmltv_id="ITV3.uk@Plus1">ITV3+1</channel>
+  <channel site="sky.com" site_id="6534" lang="en" xmltv_id="ITV4.uk@HD">ITV4 HD</channel>
   <channel site="sky.com" site_id="3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="sky.com" site_id="1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
   <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
