@@ -20,7 +20,6 @@
   <channel site="mytelly.co.uk" site_id="19/bbc-two-northern-ireland" lang="en" xmltv_id="BBCTwo.uk@NorthernIreland">BBC Two Northern Ireland</channel>
   <channel site="mytelly.co.uk" site_id="21/bbc-two-wales" lang="en" xmltv_id="BBCTwo.uk@Wales">BBC Two Wales</channel>
   <channel site="mytelly.co.uk" site_id="49/itv1-london" lang="en" xmltv_id="ITV1.uk@London">ITV1 London</channel>
-  <channel site="mytelly.co.uk" site_id="53/channel-4" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="mytelly.co.uk" site_id="56/bbc-parliament" lang="en" xmltv_id="BBCParliament.uk@SD">BBC Parliament</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="220/film4" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
