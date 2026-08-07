@@ -27,6 +27,7 @@
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="605/e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="mytelly.co.uk" site_id="645/s4c" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
+  <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk@SD">Utsav Plus</channel>
   <channel site="mytelly.co.uk" site_id="713/bbc-one-london" lang="en" xmltv_id="BBCOne.uk@London">BBC One London</channel>
   <channel site="mytelly.co.uk" site_id="733/cbbc" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
   <channel site="mytelly.co.uk" site_id="734/cbeebies" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
@@ -142,6 +143,7 @@
   <channel site="sky.com" site_id="GB#3632" lang="en" xmltv_id="TVWarehouse.uk@SD">TV Warehouse</channel>
   <channel site="sky.com" site_id="GB#2303" lang="en" xmltv_id="UAlibi.uk@SD">U&Alibi</channel>
   <channel site="sky.com" site_id="GB#3608" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
+  <channel site="sky.com" site_id="GB#1771" lang="en" xmltv_id="UtsavPlus.uk@SD">Utsav Plus</channel>
   <channel site="sky.com" site_id="GB#2617" lang="en" xmltv_id="UW.uk@SD">U&W</channel>
   <channel site="sky.com" site_id="GB#1016" lang="en" xmltv_id="ZeeTVUK.uk@HD">Zee TV HD</channel>
 </channels>
