@@ -57,7 +57,7 @@ http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb@SD" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="Lebanon",Tele Liban (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="" group-title="Lebanon",UNews
+#EXTINF:-1 tvg-id="UNews.lb@SD" tvg-logo="" group-title="Lebanon",UNews (1080p)
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 #EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="Lebanon",Voice of Lebanon (1080p)
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
@@ -69,8 +69,6 @@ https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="FalastiniTV.ps@SD" tvg-logo="https://i.imgur.com/6B3Cims.png" group-title="Palestine",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaRamallah.ps@SD" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="Palestine",Hala Ramallah (720p)
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Palestine",Holy Quran Radio Nablus (720p)
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="KolalnasTV.ps@SD" tvg-logo="https://i.imgur.com/OyMxcRG.png" group-title="Palestine",Kolalnas TV
@@ -80,8 +78,8 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps@SD" tvg-logo="https://i.imgur.com/GB2Q9kl.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Palestine",MusawaChannel (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-id="NablusTV.ps@SD" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="Palestine",Nablus TV (1080p)
-https://htvint.mada.ps/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="NablusTV.ps@SD" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="Palestine",Nablus TV (720p) [Not 24/7]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Palestine",Palestine Edu (1080p)
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-id="PalestineMubasher.ps@SD" tvg-logo="https://i.imgur.com/68llVTZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Palestine",Palestine Mubasher (1080p)
@@ -96,8 +94,6 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="RajeenTV.ps@SD" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="Palestine",Rajeen TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Raya1.ps@SD" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Palestine",Raya 1 (1080p)
-https://htvmada.mada.ps:4443/raya/index.m3u8
 #EXTINF:-1 tvg-id="SerajTV.ps@SD" tvg-logo="https://i.imgur.com/1d25a9Q.png" http-referrer="https://www.alaqsanet.news/" group-title="Palestine",Seraj TV (1080i)
 #EXTVLCOPT:http-referrer=https://www.alaqsanet.news/
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
@@ -109,8 +105,6 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-id="5Cops.us@UK" tvg-logo="https://i.imgur.com/QFPRaXK.png" group-title="United Kingdom",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-#EXTINF:-1 tvg-id="48Hours.us@GB" tvg-logo="https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png" group-title="United Kingdom",48 Hours GB (720p)
-https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="United Kingdom",Aaj Tak (1080p)
 http://103.213.31.109:90/AajtakHD/playlist.m3u8
 #EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="United Kingdom",Aathavan TV (720p) [Not 24/7]
@@ -127,8 +121,6 @@ https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" group-title="United Kingdom",Alhiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasNextTopModel.de@GB" tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png" group-title="United Kingdom",America's Next Top Model
-https://jmp2.uk/plu-686cd713e48af72bc250efb8.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="United Kingdom",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="United Kingdom",Andromeda
@@ -297,8 +289,6 @@ http://193.46.58.239:8080/Channel5/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us@UK" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="United Kingdom",Clubbing TV UK (720p)
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ClublandTV.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png" group-title="United Kingdom",Clubland TV (576i)
-http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="United Kingdom",CNBC (1080p)
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de@GB" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" group-title="United Kingdom",CSI: Crime Scene Investigation
@@ -311,8 +301,6 @@ https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg" group-title="United Kingdom",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
-#EXTINF:-1 tvg-id="DiscoverFilm.uk@SD" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="United Kingdom",DiscoverFilm (720p)
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="United Kingdom",Dog The Bounty Hunter [Geo-blocked] (1080p)
 https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="DogWhisperer.us@UK" tvg-logo="https://i.imgur.com/tgWypVJ.png" group-title="United Kingdom",Dog Whisperer (1080p) [Geo-blocked]
@@ -323,8 +311,6 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Dynasty.de@GB" tvg-logo="https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png" group-title="United Kingdom",Dynasty
 https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
-#EXTINF:-1 tvg-id="E4.uk@SD" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="United Kingdom",E4 (1080p)
-http://80.194.62.172:50002/stream/channelid/1096333958
 #EXTINF:-1 tvg-id="EmanChannel.uk@SD" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="United Kingdom",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="United Kingdom",English Club TV (576i)
@@ -367,8 +353,6 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="United Kingdom",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="Gunsmoke.de@GB" tvg-logo="https://images.pluto.tv/channels/68503d1736c9361b191e7d89/colorLogoPNG_1750164496728.png" group-title="United Kingdom",Gunsmoke
-https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 #EXTINF:-1 tvg-id="HalaLondon.uk@SD" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="United Kingdom",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.us@UK" tvg-logo="https://i.imgur.com/P9eT0O9.png" group-title="United Kingdom",Hell's Kitchen (1080p)
@@ -385,8 +369,6 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="United Kingdom",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="HowToUsePlutoTV.de@GB" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" group-title="United Kingdom",How To Use Pluto TV
-https://jmp2.uk/plu-64634eb42858cb0008fd92d6.m3u8
 #EXTINF:-1 tvg-id="IBCBakthi.uk@SD" tvg-logo="https://i.imgur.com/ZNEz5Wx.png" group-title="United Kingdom",IBC Bakthi (1080p)
 https://ibc.massstream.net/IBC2/index.m3u8
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.imgur.com/uVt9vBa.png" group-title="United Kingdom",IBC Tamil (1080p)
@@ -401,8 +383,6 @@ https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk@SD" tvg-logo="https://i.imgur.com/bJdFH7x.png" group-title="United Kingdom",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="IslamChannelUrdu.uk@SD" tvg-logo="https://i.imgur.com/j1ZBAgg.png" group-title="United Kingdom",Islam Channel Urdu (576p)
-https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="ITV1.uk@London" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="United Kingdom",ITV1 (1080p)
 https://xemzi.short.gy/1000011
 #EXTINF:-1 tvg-id="ITV2.uk@HD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="United Kingdom",ITV2 HD (1080p)
@@ -499,8 +479,6 @@ https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="United Kingdom",NTD TV English UK (1080p)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd@SD" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="United Kingdom",NTV Europe (576p)
-http://tvsen5.aynascope.net/ntveurope/index.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us@UK" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="United Kingdom",On the Case
 https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 #EXTINF:-1 tvg-id="ParanormalState.us@UK" tvg-logo="https://i.imgur.com/NmxhvAE.png" group-title="United Kingdom",Paranormal State
@@ -608,7 +586,7 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RugbyPassTV.uk@SD" tvg-logo="" group-title="United Kingdom",Rugby Pass TV (720p)
 https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 #EXTINF:-1 tvg-id="S4C.uk@SD" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="United Kingdom",S4C (1080p) [Geo-blocked]
-https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8
+https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
 #EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de@GB" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="United Kingdom",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk@SD" tvg-logo="https://image.roku.com/developer_channels/prod/8389e15af8fe49ac7c36d201c24ebf62fbe5b22897c2879ca26ae936e0ed308d.png" group-title="United Kingdom",Safeer TV (1080p)
@@ -621,8 +599,6 @@ https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="United Kingdom",Sheffield Live TV (360p) [Not 24/7]
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="SkyMix.uk@SD" tvg-logo="https://i.imgur.com/hHEz5rq.png" group-title="United Kingdom",Sky Mix (1080p)
-http://80.194.62.172:50002/stream/channelid/1848745953
 #EXTINF:-1 tvg-id="SkyNature.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" group-title="United Kingdom",Sky Nature (576p)
 https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="United Kingdom",Sky News Weather (720p)
@@ -639,8 +615,6 @@ https://xemzi.short.gy/2000009
 https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="SoReal.us@UK" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="United Kingdom",So… Real (720p)
 https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMax.uk@SD" tvg-logo="https://i.imgur.com/LBICKI5.png" group-title="United Kingdom",Sony Max (576p)
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@GB" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="United Kingdom",South Park
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="United Kingdom",Spark TV (1080p)
@@ -733,8 +707,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="United Kingdom",Vantage Music UK (1080p) [Geo-blocked]
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
-#EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="United Kingdom",VoxAfrica (720p)
-http://69.64.57.208/voxafrica/playlist.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch@SD" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="United Kingdom",WaterBear (1080p)
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-logo="https://i.imgur.com/kyVB8Ik.png" group-title="United Kingdom",Wild at Heart
@@ -749,5 +721,3 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg012
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="United Kingdom",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVUK.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="United Kingdom",Zee TV UK HD (1080p)
-https://mini.allinonereborn.fun/tata.php?id=11783
