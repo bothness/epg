@@ -45,6 +45,7 @@
   <channel site="mytelly.co.uk" site_id="1567/sky-sports-golf-hd" lang="en" xmltv_id="SkySportsGolf.uk@HD">Sky Sports Golf HD</channel>
   <channel site="mytelly.co.uk" site_id="1580/channel-5-hd" lang="en" xmltv_id="Channel5.uk@HD">Channel 5 HD</channel>
   <channel site="mytelly.co.uk" site_id="1602/itv2-hd" lang="en" xmltv_id="ITV2.uk@HD">ITV2 HD</channel>
+  <channel site="mytelly.co.uk" site_id="1671/sky-sports-f1-hd" lang="en" xmltv_id="SkySportsF1.uk@HD">Sky Sports F1 HD</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
@@ -62,6 +63,7 @@
   <channel site="mytelly.co.uk" site_id="2257/qvc-extra" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="mytelly.co.uk" site_id="2259/qvc-style" lang="en" xmltv_id="QVCStyle.uk@SD">QVC Style</channel>
   <channel site="mytelly.co.uk" site_id="2313/sky-nature" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
+  <channel site="mytelly.co.uk" site_id="2330/sky-mix-hd" lang="en" xmltv_id="SkyMix.uk@HD">Sky Mix HD</channel>
   <channel site="mytelly.co.uk" site_id="2339/gb-news" lang="en" xmltv_id="GBNews.uk@SD">GB News</channel>
   <channel site="mytelly.co.uk" site_id="2340/gb-news-hd" lang="en" xmltv_id="GBNews.uk@HD">GB News HD</channel>
   <channel site="mytelly.co.uk" site_id="2351/thats-tv" lang="en" xmltv_id="ThatsTV.uk@SD">That's TV</channel>
@@ -117,11 +119,15 @@
   <channel site="sky.com" site_id="GB#4105" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="sky.com" site_id="GB#3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="GB#5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
+  <channel site="sky.com" site_id="GB#1831" lang="en" xmltv_id="SkyMix.uk@HD">Sky Mix HD</channel>
   <channel site="sky.com" site_id="GB#1194" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
   <channel site="sky.com" site_id="GB#1702" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#4081" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#4085" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#1342" lang="en" xmltv_id="SkySportsCricket.uk@SD">SkySp Cricket</channel>
+  <channel site="sky.com" site_id="GB#3835" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
+  <channel site="sky.com" site_id="GB#3836" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
+  <channel site="sky.com" site_id="GB#4202" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
   <channel site="sky.com" site_id="GB#1094" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
   <channel site="sky.com" site_id="GB#1704" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
   <channel site="sky.com" site_id="GB#4026" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
