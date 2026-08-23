@@ -30,7 +30,6 @@
   <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="645/s4c" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk@SD">Utsav Plus</channel>
-  <channel site="mytelly.co.uk" site_id="703/nickelodeon-1" lang="en" xmltv_id="Nickelodeon.uk@Plus1">Nickelodeon +1</channel>
   <channel site="mytelly.co.uk" site_id="713/bbc-one-london" lang="en" xmltv_id="BBCOne.uk@London">BBC One London</channel>
   <channel site="mytelly.co.uk" site_id="733/cbbc" lang="en" xmltv_id="CBBC.uk@SD">CBBC</channel>
   <channel site="mytelly.co.uk" site_id="734/cbeebies" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
@@ -113,7 +112,6 @@
   <channel site="sky.com" site_id="GB#3753" lang="en" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="sky.com" site_id="GB#1228" lang="en" xmltv_id="LoveWorldUK.ng@SD">LoveWorld HD</channel>
   <channel site="sky.com" site_id="GB#1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
-  <channel site="sky.com" site_id="GB#1845" lang="en" xmltv_id="Nickelodeon.uk@Plus1">Nickelodeon+1</channel>
   <channel site="sky.com" site_id="GB#1846" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="sky.com" site_id="GB#3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
   <channel site="sky.com" site_id="GB#3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
