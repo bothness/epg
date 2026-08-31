@@ -23,9 +23,6 @@
   <channel site="mytelly.co.uk" site_id="188/nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
-  <channel site="mytelly.co.uk" site_id="231/sky-sports-news" lang="en" xmltv_id="SkySportsNews.uk@SD">Sky Sports News</channel>
-  <channel site="mytelly.co.uk" site_id="433/sky-sports-cricket" lang="en" xmltv_id="SkySportsCricket.uk@SD">Sky Sports Cricket</channel>
-  <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="645/s4c" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk@SD">Utsav Plus</channel>
   <channel site="mytelly.co.uk" site_id="713/bbc-one-london" lang="en" xmltv_id="BBCOne.uk@London">BBC One London</channel>
@@ -40,9 +37,7 @@
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
-  <channel site="mytelly.co.uk" site_id="1567/sky-sports-golf-hd" lang="en" xmltv_id="SkySportsGolf.uk@HD">Sky Sports Golf HD</channel>
   <channel site="mytelly.co.uk" site_id="1602/itv2-hd" lang="en" xmltv_id="ITV2.uk@HD">ITV2 HD</channel>
-  <channel site="mytelly.co.uk" site_id="1671/sky-sports-f1-hd" lang="en" xmltv_id="SkySportsF1.uk@HD">Sky Sports F1 HD</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
@@ -122,18 +117,6 @@
   <channel site="sky.com" site_id="GB#1702" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#4081" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#4085" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
-  <channel site="sky.com" site_id="GB#1342" lang="en" xmltv_id="SkySportsCricket.uk@SD">SkySp Cricket</channel>
-  <channel site="sky.com" site_id="GB#3835" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
-  <channel site="sky.com" site_id="GB#3836" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
-  <channel site="sky.com" site_id="GB#4202" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
-  <channel site="sky.com" site_id="GB#1094" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
-  <channel site="sky.com" site_id="GB#1704" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
-  <channel site="sky.com" site_id="GB#4026" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
-  <channel site="sky.com" site_id="GB#4027" lang="en" xmltv_id="SkySportsGolf.uk@HD">SkySp Golf HD</channel>
-  <channel site="sky.com" site_id="GB#1314" lang="en" xmltv_id="SkySportsNews.uk@SD">SkySp News</channel>
-  <channel site="sky.com" site_id="GB#1348" lang="en" xmltv_id="SkySportsNews.uk@SD">SkySp News</channel>
-  <channel site="sky.com" site_id="GB#4211" lang="en" xmltv_id="SkySportsNews.uk@SD">SkySp News</channel>
-  <channel site="sky.com" site_id="GB#1343" lang="en" xmltv_id="SkySportsNFL.uk@SD">SkySp Action</channel>
   <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk@SD">Takbeer TV</channel>
   <channel site="sky.com" site_id="GB#5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="GB#2902" lang="en" xmltv_id="talkSPORT.uk@SD">talkSPORT</channel>
