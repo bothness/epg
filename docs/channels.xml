@@ -30,7 +30,6 @@
   <channel site="mytelly.co.uk" site_id="734/cbeebies" lang="en" xmltv_id="CBeebies.uk@SD">CBeebies</channel>
   <channel site="mytelly.co.uk" site_id="742/bbc-four" lang="en" xmltv_id="BBCFour.uk@UK">BBC Four</channel>
   <channel site="mytelly.co.uk" site_id="935/bbc-three" lang="en" xmltv_id="BBCThree.uk@SD">BBC Three</channel>
-  <channel site="mytelly.co.uk" site_id="1285/sky-sports-cricket-hd" lang="en" xmltv_id="SkySportsCricket.uk@HD">Sky Sports Cricket HD</channel>
   <channel site="mytelly.co.uk" site_id="1288/together-tv" lang="en" xmltv_id="TogetherTV.uk@SD">Together TV</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
@@ -114,9 +113,6 @@
   <channel site="sky.com" site_id="GB#3355" lang="en" xmltv_id="SangatTV.uk@SD">Sangat</channel>
   <channel site="sky.com" site_id="GB#1831" lang="en" xmltv_id="SkyMix.uk@HD">Sky Mix HD</channel>
   <channel site="sky.com" site_id="GB#1194" lang="en" xmltv_id="SkyNature.uk@SD">Sky Nature</channel>
-  <channel site="sky.com" site_id="GB#1702" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
-  <channel site="sky.com" site_id="GB#4081" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
-  <channel site="sky.com" site_id="GB#4085" lang="en" xmltv_id="SkySportsCricket.uk@HD">SkySpCricket HD</channel>
   <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk@SD">Takbeer TV</channel>
   <channel site="sky.com" site_id="GB#5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="GB#2902" lang="en" xmltv_id="talkSPORT.uk@SD">talkSPORT</channel>
