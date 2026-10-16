@@ -25,6 +25,7 @@
   <channel site="mytelly.co.uk" site_id="188/nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
+  <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="451/itv2" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
   <channel site="mytelly.co.uk" site_id="605/e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
   <channel site="mytelly.co.uk" site_id="645/s4c" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
@@ -44,6 +45,7 @@
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
+  <channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk@SD">Sky Sports F1</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1761/baby-tv" lang="en" xmltv_id="BabyTV.uk@UK">Baby TV</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
@@ -127,6 +129,8 @@
   <channel site="sky.com" site_id="GB#3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="GB#5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
   <channel site="sky.com" site_id="GB#3355" lang="en" xmltv_id="SangatTV.uk@SD">Sangat</channel>
+  <channel site="sky.com" site_id="GB#1307" lang="en" xmltv_id="SkySportsF1.uk@SD">SkySp F1</channel>
+  <channel site="sky.com" site_id="GB#1343" lang="en" xmltv_id="SkySportsNFL.uk@SD">SkySp Action</channel>
   <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk@SD">Takbeer TV</channel>
   <channel site="sky.com" site_id="GB#5252" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">TalkingPictures</channel>
   <channel site="sky.com" site_id="GB#2902" lang="en" xmltv_id="talkSPORT.uk@SD">talkSPORT</channel>
