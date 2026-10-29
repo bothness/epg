@@ -45,6 +45,7 @@
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
+  <channel site="mytelly.co.uk" site_id="1660/pbs-america" lang="en" xmltv_id="PBSAmerica.uk@SD">PBS America</channel>
   <channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk@SD">Sky Sports F1</channel>
   <channel site="mytelly.co.uk" site_id="1680/great-movies" lang="en" xmltv_id="GREATmovies.uk@UK">GREAT! movies</channel>
   <channel site="mytelly.co.uk" site_id="1770/bbc-one-northern-ireland-hd" lang="en" xmltv_id="BBCOne.uk@NorthernIrelandHD">BBC One Northern Ireland HD</channel>
@@ -123,6 +124,7 @@
   <channel site="sky.com" site_id="GB#4541" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="sky.com" site_id="GB#3682" lang="en" xmltv_id="NOWRock.uk@SD">NOW ROCK</channel>
   <channel site="sky.com" site_id="GB#1041" lang="en" xmltv_id="PanjabTV.uk@SD">Panjab TV</channel>
+  <channel site="sky.com" site_id="GB#5500" lang="en" xmltv_id="PBSAmerica.uk@SD">PBS America</channel>
   <channel site="sky.com" site_id="GB#4105" lang="en" xmltv_id="QVCBeauty.uk@SD">QVC Beauty</channel>
   <channel site="sky.com" site_id="GB#3359" lang="en" xmltv_id="QVCExtra.uk@SD">QVC Extra</channel>
   <channel site="sky.com" site_id="GB#5701" lang="en" xmltv_id="S4C.uk@SD">S4C</channel>
