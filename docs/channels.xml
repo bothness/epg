@@ -42,6 +42,7 @@
   <channel site="mytelly.co.uk" site_id="1290/5usa" lang="en" xmltv_id="5USA.uk@SD">5USA</channel>
   <channel site="mytelly.co.uk" site_id="1402/tiny-pop" lang="en" xmltv_id="TinyPop.uk@SD">Tiny Pop</channel>
   <channel site="mytelly.co.uk" site_id="1403/pop" lang="en" xmltv_id="Pop.uk@SD">Pop</channel>
+  <channel site="mytelly.co.uk" site_id="1492/tnt-sports-4" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
   <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk@SD">CNBC UK</channel>
   <channel site="mytelly.co.uk" site_id="1545/tiny-pop-1" lang="en" xmltv_id="TinyPop.uk@Plus1">Tiny Pop +1</channel>
   <channel site="mytelly.co.uk" site_id="1558/bbc-red-button-1" lang="en" xmltv_id="BBCRedButton1.uk@SD">BBC Red Button 1</channel>
@@ -52,12 +53,15 @@
   <channel site="mytelly.co.uk" site_id="1776/bbc-one-scotland-hd" lang="en" xmltv_id="BBCOne.uk@ScotlandHD">BBC One Scotland HD</channel>
   <channel site="mytelly.co.uk" site_id="1782/bbc-two-hd" lang="en" xmltv_id="BBCTwo.uk@HD">BBC Two HD</channel>
   <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
+  <channel site="mytelly.co.uk" site_id="1804/tnt-sports-1" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
+  <channel site="mytelly.co.uk" site_id="1806/tnt-sports-2" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
   <channel site="mytelly.co.uk" site_id="1849/cbbc-hd" lang="en" xmltv_id="CBBC.uk@HD">CBBC HD</channel>
   <channel site="mytelly.co.uk" site_id="1850/cbeebies-hd" lang="en" xmltv_id="CBeebies.uk@HD">CBeebies HD</channel>
   <channel site="mytelly.co.uk" site_id="1852/bbc-three-hd" lang="en" xmltv_id="BBCThree.uk@HD">BBC Three HD</channel>
   <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
   <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="mytelly.co.uk" site_id="1946/talking-pictures-tv" lang="en" xmltv_id="TalkingPicturesTV.uk@SD">Talking Pictures TV</channel>
+  <channel site="mytelly.co.uk" site_id="1952/tnt-sports-3" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
   <channel site="mytelly.co.uk" site_id="1977/now-rock" lang="en" xmltv_id="NOWRock.uk@SD">NOW Rock</channel>
   <channel site="mytelly.co.uk" site_id="2041/blaze" lang="en" xmltv_id="Blaze.uk@SD">Blaze</channel>
   <channel site="mytelly.co.uk" site_id="2116/sanskar" lang="en" xmltv_id="SanskarUK.in@SD">Sanskar</channel>
