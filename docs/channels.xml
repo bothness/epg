@@ -30,6 +30,7 @@
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="231/sky-sports-news" lang="en" xmltv_id="SkySportsNews.uk@SD">Sky Sports News</channel>
+  <channel site="mytelly.co.uk" site_id="275/eurosport-1" lang="en" xmltv_id="Eurosport1.fr@UK">Eurosport 1</channel>
   <channel site="mytelly.co.uk" site_id="435/sky-sports-nfl" lang="en" xmltv_id="SkySportsNFL.uk@SD">Sky Sports NFL</channel>
   <channel site="mytelly.co.uk" site_id="451/itv2" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
   <channel site="mytelly.co.uk" site_id="605/e4" lang="en" xmltv_id="E4.uk@SD">E4</channel>
