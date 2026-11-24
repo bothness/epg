@@ -26,7 +26,6 @@
   <channel site="mytelly.co.uk" site_id="168/animal-planet" lang="en" xmltv_id="AnimalPlanet.uk@SD">Animal Planet</channel>
   <channel site="mytelly.co.uk" site_id="169/discovery-channel" lang="en" xmltv_id="DiscoveryChannel.uk@UK">Discovery Channel</channel>
   <channel site="mytelly.co.uk" site_id="177/national-geographic-channel" lang="en" xmltv_id="NationalGeographic.uk@SD">National Geographic Channel</channel>
-  <channel site="mytelly.co.uk" site_id="188/nickelodeon" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="mytelly.co.uk" site_id="216/qvc" lang="en" xmltv_id="QVC.uk@SD">QVC</channel>
   <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk@SD">MUTV</channel>
   <channel site="mytelly.co.uk" site_id="231/sky-sports-news" lang="en" xmltv_id="SkySportsNews.uk@SD">Sky Sports News</channel>
@@ -131,7 +130,6 @@
   <channel site="sky.com" site_id="GB#3340" lang="en" xmltv_id="More4.uk@SD">More4</channel>
   <channel site="sky.com" site_id="GB#1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
   <channel site="sky.com" site_id="GB#1806" lang="en" xmltv_id="NationalGeographic.uk@SD">Nat Geo</channel>
-  <channel site="sky.com" site_id="GB#1846" lang="en" xmltv_id="Nickelodeon.uk@SD">Nickelodeon</channel>
   <channel site="sky.com" site_id="GB#3715" lang="en" xmltv_id="NoorTV.uk@SD">Noor TV</channel>
   <channel site="sky.com" site_id="GB#3403" lang="en" xmltv_id="Now70s.uk@SD">NOW 70s</channel>
   <channel site="sky.com" site_id="GB#4541" lang="en" xmltv_id="Now80s.uk@SD">NOW 80s</channel>
